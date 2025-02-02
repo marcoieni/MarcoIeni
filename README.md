@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2021](https://github.com/release-plz/release-plz/pull/2021) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🚀 Published release [v0.5.90](https://github.com/release-plz/action/releases/tag/v0.5.90) in [release-plz/action](https://github.com/release-plz/action)
-3. 🎉 Merged PR [#183](https://github.com/release-plz/action/pull/183) in [release-plz/action](https://github.com/release-plz/action)
-4. 💪 Opened PR [#183](https://github.com/release-plz/action/pull/183) in [release-plz/action](https://github.com/release-plz/action)
-5. 🗣 Commented on [#2013](https://github.com/release-plz/release-plz/pull/2013#issuecomment-2629014747) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#1974](https://github.com/release-plz/release-plz/issues/1974#issuecomment-2629492294) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 💪 Opened PR [#1035](https://github.com/orhun/git-cliff/pull/1035) in [orhun/git-cliff](https://github.com/orhun/git-cliff)
+3. 🎉 Merged PR [#2024](https://github.com/release-plz/release-plz/pull/2024) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 💪 Opened PR [#2024](https://github.com/release-plz/release-plz/pull/2024) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2012](https://github.com/release-plz/release-plz/issues/2012#issuecomment-2629460825) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
