@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135813](https://github.com/rust-lang/rust/pull/135813#issuecomment-2633077651) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🔒 Closed issue [#4143](https://github.com/rust-lang/miri/issues/4143) in [rust-lang/miri](https://github.com/rust-lang/miri)
-3. 🗣 Commented on [#136478](https://github.com/rust-lang/rust/pull/136478#issuecomment-2633031621) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#136478](https://github.com/rust-lang/rust/pull/136478#issuecomment-2631552618) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 💪 Opened PR [#15135](https://github.com/rust-lang/cargo/pull/15135) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+1. ❌ Closed PR [#1](https://github.com/marcoieni/team/pull/1) in [marcoieni/team](https://github.com/marcoieni/team)
+2. 💪 Opened PR [#1](https://github.com/marcoieni/team/pull/1) in [marcoieni/team](https://github.com/marcoieni/team)
+3. 🗣 Commented on [#136535](https://github.com/rust-lang/rust/pull/136535#issuecomment-2633604952) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 💪 Opened PR [#136535](https://github.com/rust-lang/rust/pull/136535) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#136532](https://github.com/rust-lang/rust/pull/136532#issuecomment-2633547830) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
