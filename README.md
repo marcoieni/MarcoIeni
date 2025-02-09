@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2053](https://github.com/release-plz/release-plz/pull/2053) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 💪 Opened PR [#238](https://github.com/marcoieni/rust-workspace-example/pull/238) in [marcoieni/rust-workspace-example](https://github.com/marcoieni/rust-workspace-example)
-3. 🗣 Commented on [#1873](https://github.com/release-plz/release-plz/issues/1873#issuecomment-2646302377) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🔒 Closed issue [#1873](https://github.com/release-plz/release-plz/issues/1873) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🔒 Closed issue [#1882](https://github.com/release-plz/release-plz/issues/1882) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🚀 Published release [v0.5.94](https://github.com/release-plz/action/releases/tag/v0.5.94) in [release-plz/action](https://github.com/release-plz/action)
+2. 🎉 Merged PR [#187](https://github.com/release-plz/action/pull/187) in [release-plz/action](https://github.com/release-plz/action)
+3. 💪 Opened PR [#187](https://github.com/release-plz/action/pull/187) in [release-plz/action](https://github.com/release-plz/action)
+4. 🗣 Commented on [#1738](https://github.com/release-plz/release-plz/issues/1738#issuecomment-2646478271) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#2058](https://github.com/release-plz/release-plz/pull/2058) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
