@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2059](https://github.com/release-plz/release-plz/pull/2059#issuecomment-2648895336) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2033](https://github.com/release-plz/release-plz/pull/2033#issuecomment-2648886761) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#2059](https://github.com/release-plz/release-plz/pull/2059#issuecomment-2648645809) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🗣 Commented on [#2060](https://github.com/release-plz/release-plz/issues/2060#issuecomment-2648637941) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#1628](https://github.com/lycheeverse/lychee/issues/1628#issuecomment-2648634183) in [lycheeverse/lychee](https://github.com/lycheeverse/lychee)
+1. 🔒 Closed issue [#2032](https://github.com/release-plz/release-plz/issues/2032) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🎉 Merged PR [#2033](https://github.com/release-plz/release-plz/pull/2033) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2059](https://github.com/release-plz/release-plz/pull/2059#issuecomment-2648895336) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#2033](https://github.com/release-plz/release-plz/pull/2033#issuecomment-2648886761) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2059](https://github.com/release-plz/release-plz/pull/2059#issuecomment-2648645809) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
