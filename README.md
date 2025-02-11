@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135813](https://github.com/rust-lang/rust/pull/135813#issuecomment-2647364703) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#135813](https://github.com/rust-lang/rust/pull/135813#issuecomment-2647319251) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#1910](https://github.com/release-plz/release-plz/issues/1910#issuecomment-2647204963) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🗣 Commented on [#1910](https://github.com/release-plz/release-plz/issues/1910#issuecomment-2647197151) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🚀 Published release [v0.5.94](https://github.com/release-plz/action/releases/tag/v0.5.94) in [release-plz/action](https://github.com/release-plz/action)
+1. 🗣 Commented on [#2059](https://github.com/release-plz/release-plz/pull/2059#issuecomment-2648645809) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#2060](https://github.com/release-plz/release-plz/issues/2060#issuecomment-2648637941) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#1628](https://github.com/lycheeverse/lychee/issues/1628#issuecomment-2648634183) in [lycheeverse/lychee](https://github.com/lycheeverse/lychee)
+4. 🗣 Commented on [#2061](https://github.com/release-plz/release-plz/issues/2061#issuecomment-2648629079) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 💪 Opened PR [#136821](https://github.com/rust-lang/rust/pull/136821) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
