@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135813](https://github.com/rust-lang/rust/pull/135813#issuecomment-2659318787) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#135813](https://github.com/rust-lang/rust/pull/135813#issuecomment-2658861917) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🔒 Closed issue [#161](https://github.com/rust-lang/trait-system-refactor-initiative/issues/161) in [rust-lang/trait-system-refactor-initiative](https://github.com/rust-lang/trait-system-refactor-initiative)
-4. 🗣 Commented on [#136981](https://github.com/rust-lang/rust/pull/136981#issuecomment-2657767612) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#82](https://github.com/d-e-s-o/cargo-http-registry/issues/82#issuecomment-2657764536) in [d-e-s-o/cargo-http-registry](https://github.com/d-e-s-o/cargo-http-registry)
+1. 🗣 Commented on [#98](https://github.com/rust-lang/sync-team/pull/98#issuecomment-2659837550) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 🗣 Commented on [#137023](https://github.com/rust-lang/rust/pull/137023#issuecomment-2659833710) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#78](https://github.com/rust-lang/sync-team/pull/78#issuecomment-2659828710) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+4. ❌ Closed PR [#78](https://github.com/rust-lang/sync-team/pull/78) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 🎉 Merged PR [#98](https://github.com/rust-lang/sync-team/pull/98) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
 <!--END_SECTION:activity-->
   
 </details>
