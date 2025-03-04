@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137945](https://github.com/rust-lang/rust/pull/137945#issuecomment-2694867931) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#668](https://github.com/rust-lang/simpleinfra/pull/668#issuecomment-2693868664) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#137665](https://github.com/rust-lang/rust/pull/137665#issuecomment-2693839904) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🎉 Merged PR [#668](https://github.com/rust-lang/simpleinfra/pull/668) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#668](https://github.com/rust-lang/simpleinfra/pull/668#issuecomment-2693751514) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#137945](https://github.com/rust-lang/rust/pull/137945#issuecomment-2694930363) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🔒 Closed issue [#91](https://github.com/rust-lang/project-stable-mir/issues/91) in [rust-lang/project-stable-mir](https://github.com/rust-lang/project-stable-mir)
+3. 🔒 Closed issue [#10](https://github.com/rust-lang/trait-system-refactor-initiative/issues/10) in [rust-lang/trait-system-refactor-initiative](https://github.com/rust-lang/trait-system-refactor-initiative)
+4. 🗣 Commented on [#137945](https://github.com/rust-lang/rust/pull/137945#issuecomment-2694867931) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#668](https://github.com/rust-lang/simpleinfra/pull/668#issuecomment-2693868664) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
