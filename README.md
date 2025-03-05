@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/rust-lang/sync-team/pull/102) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-2. 🗣 Commented on [#1663](https://github.com/rust-lang/team/pull/1663#issuecomment-2697844002) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#137798](https://github.com/rust-lang/rust/pull/137798#issuecomment-2697195221) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#1663](https://github.com/rust-lang/team/pull/1663#issuecomment-2697069350) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#1663](https://github.com/rust-lang/team/pull/1663#issuecomment-2697015979) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#102](https://github.com/rust-lang/sync-team/pull/102) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 💪 Opened PR [#102](https://github.com/rust-lang/sync-team/pull/102) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 🗣 Commented on [#1663](https://github.com/rust-lang/team/pull/1663#issuecomment-2697844002) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#137798](https://github.com/rust-lang/rust/pull/137798#issuecomment-2697195221) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#1663](https://github.com/rust-lang/team/pull/1663#issuecomment-2697069350) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
