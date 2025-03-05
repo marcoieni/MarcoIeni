@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/rust-lang/sync-team/pull/102) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-2. 💪 Opened PR [#102](https://github.com/rust-lang/sync-team/pull/102) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-3. 🗣 Commented on [#1663](https://github.com/rust-lang/team/pull/1663#issuecomment-2697844002) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#137798](https://github.com/rust-lang/rust/pull/137798#issuecomment-2697195221) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#1663](https://github.com/rust-lang/team/pull/1663#issuecomment-2697069350) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#2110](https://github.com/release-plz/release-plz/pull/2110) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 💪 Opened PR [#2110](https://github.com/release-plz/release-plz/pull/2110) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🔒 Closed issue [#2034](https://github.com/release-plz/release-plz/issues/2034) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#2034](https://github.com/release-plz/release-plz/issues/2034#issuecomment-2698995782) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🚀 Published release [v0.5.99](https://github.com/release-plz/action/releases/tag/v0.5.99) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
