@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2114](https://github.com/release-plz/release-plz/issues/2114#issuecomment-2708090498) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2114](https://github.com/release-plz/release-plz/issues/2114#issuecomment-2708041652) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🎉 Merged PR [#108](https://github.com/rust-lang/sync-team/pull/108) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-4. 💪 Opened PR [#108](https://github.com/rust-lang/sync-team/pull/108) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-5. 🎉 Merged PR [#194](https://github.com/rust-lang/infra-team/pull/194) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+1. 🗣 Commented on [#2116](https://github.com/release-plz/release-plz/issues/2116#issuecomment-2708915117) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#2114](https://github.com/release-plz/release-plz/issues/2114#issuecomment-2708090498) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2114](https://github.com/release-plz/release-plz/issues/2114#issuecomment-2708041652) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🎉 Merged PR [#108](https://github.com/rust-lang/sync-team/pull/108) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 💪 Opened PR [#108](https://github.com/rust-lang/sync-team/pull/108) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
 <!--END_SECTION:activity-->
   
 </details>
