@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/rust-lang/sync-team/pull/109#issuecomment-2711550007) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-2. 🗣 Commented on [#109](https://github.com/rust-lang/sync-team/pull/109#issuecomment-2711542769) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-3. 🎉 Merged PR [#8](https://github.com/marco-test-org/playground/pull/8) in [marco-test-org/playground](https://github.com/marco-test-org/playground)
-4. 💪 Opened PR [#8](https://github.com/marco-test-org/playground/pull/8) in [marco-test-org/playground](https://github.com/marco-test-org/playground)
-5. ❌ Closed PR [#1](https://github.com/marcoieni/playground/pull/1) in [marcoieni/playground](https://github.com/marcoieni/playground)
+1. 🗣 Commented on [#77537](https://github.com/rust-lang/rust/issues/77537#issuecomment-2713115428) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#138335](https://github.com/rust-lang/rust/pull/138335#issuecomment-2712696748) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#109](https://github.com/rust-lang/sync-team/pull/109#issuecomment-2711550007) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+4. 🗣 Commented on [#109](https://github.com/rust-lang/sync-team/pull/109#issuecomment-2711542769) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 🎉 Merged PR [#8](https://github.com/marco-test-org/playground/pull/8) in [marco-test-org/playground](https://github.com/marco-test-org/playground)
 <!--END_SECTION:activity-->
   
 </details>
