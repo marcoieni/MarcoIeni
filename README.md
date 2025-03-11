@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138307](https://github.com/rust-lang/rust/pull/138307#issuecomment-2711076119) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#138223](https://github.com/rust-lang/rust/pull/138223#issuecomment-2709939308) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#195](https://github.com/release-plz/action/pull/195#issuecomment-2709083434) in [release-plz/action](https://github.com/release-plz/action)
-4. 🗣 Commented on [#195](https://github.com/release-plz/action/pull/195#issuecomment-2709051052) in [release-plz/action](https://github.com/release-plz/action)
-5. 🗣 Commented on [#195](https://github.com/release-plz/action/pull/195#issuecomment-2709050907) in [release-plz/action](https://github.com/release-plz/action)
+1. 🗣 Commented on [#109](https://github.com/rust-lang/sync-team/pull/109#issuecomment-2711550007) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 🗣 Commented on [#109](https://github.com/rust-lang/sync-team/pull/109#issuecomment-2711542769) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 🎉 Merged PR [#8](https://github.com/marco-test-org/playground/pull/8) in [marco-test-org/playground](https://github.com/marco-test-org/playground)
+4. 💪 Opened PR [#8](https://github.com/marco-test-org/playground/pull/8) in [marco-test-org/playground](https://github.com/marco-test-org/playground)
+5. ❌ Closed PR [#1](https://github.com/marcoieni/playground/pull/1) in [marcoieni/playground](https://github.com/marcoieni/playground)
 <!--END_SECTION:activity-->
   
 </details>
