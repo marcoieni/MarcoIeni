@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#671](https://github.com/rust-lang/simpleinfra/pull/671) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🗣 Commented on [#113](https://github.com/rust-lang/sync-team/pull/113#issuecomment-2714203472) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-3. 🗣 Commented on [#111](https://github.com/rust-lang/sync-team/pull/111#issuecomment-2713910983) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-4. 🎉 Merged PR [#111](https://github.com/rust-lang/sync-team/pull/111) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-5. 💪 Opened PR [#111](https://github.com/rust-lang/sync-team/pull/111) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+1. 🔒 Closed issue [#99](https://github.com/rust-lang/sync-team/issues/99) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 🎉 Merged PR [#114](https://github.com/rust-lang/sync-team/pull/114) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 🗣 Commented on [#116](https://github.com/rust-lang/sync-team/issues/116#issuecomment-2715190753) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+4. 🎉 Merged PR [#117](https://github.com/rust-lang/sync-team/pull/117) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 🗣 Commented on [#672](https://github.com/rust-lang/simpleinfra/pull/672#issuecomment-2715164008) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
