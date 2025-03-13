@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#116](https://github.com/rust-lang/sync-team/issues/116) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-2. 🎉 Merged PR [#120](https://github.com/rust-lang/sync-team/pull/120) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-3. ❗ Opened issue [#121](https://github.com/rust-lang/sync-team/issues/121) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-4. 🗣 Commented on [#138396](https://github.com/rust-lang/rust/pull/138396#issuecomment-2720504745) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🔒 Closed issue [#114](https://github.com/rust-lang/trait-system-refactor-initiative/issues/114) in [rust-lang/trait-system-refactor-initiative](https://github.com/rust-lang/trait-system-refactor-initiative)
+1. 🎉 Merged PR [#122](https://github.com/rust-lang/sync-team/pull/122) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. 🗣 Commented on [#121](https://github.com/rust-lang/sync-team/issues/121#issuecomment-2720895963) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 💪 Opened PR [#122](https://github.com/rust-lang/sync-team/pull/122) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+4. 🔒 Closed issue [#116](https://github.com/rust-lang/sync-team/issues/116) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 🎉 Merged PR [#120](https://github.com/rust-lang/sync-team/pull/120) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
 <!--END_SECTION:activity-->
   
 </details>
