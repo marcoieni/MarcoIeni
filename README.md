@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/rust-lang/sync-team/pull/126) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-2. 🎉 Merged PR [#124](https://github.com/rust-lang/sync-team/pull/124) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-3. 🎉 Merged PR [#125](https://github.com/rust-lang/sync-team/pull/125) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-4. 💪 Opened PR [#125](https://github.com/rust-lang/sync-team/pull/125) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
-5. 🎉 Merged PR [#123](https://github.com/rust-lang/sync-team/pull/123) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+1. 🗣 Commented on [#121](https://github.com/rust-lang/sync-team/issues/121#issuecomment-2725433682) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+2. ❌ Closed PR [#126](https://github.com/rust-lang/sync-team/pull/126) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+3. 💪 Opened PR [#126](https://github.com/rust-lang/sync-team/pull/126) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+4. 🎉 Merged PR [#124](https://github.com/rust-lang/sync-team/pull/124) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+5. 🎉 Merged PR [#125](https://github.com/rust-lang/sync-team/pull/125) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
 <!--END_SECTION:activity-->
   
 </details>
