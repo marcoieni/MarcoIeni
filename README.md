@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2134](https://github.com/release-plz/release-plz/pull/2134) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 💪 Opened PR [#2134](https://github.com/release-plz/release-plz/pull/2134) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. ❗ Opened issue [#2133](https://github.com/release-plz/release-plz/issues/2133) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🗣 Commented on [#67](https://github.com/rust-github/template/pull/67#issuecomment-2727325810) in [rust-github/template](https://github.com/rust-github/template)
-5. 🎉 Merged PR [#64](https://github.com/rust-github/template/pull/64) in [rust-github/template](https://github.com/rust-github/template)
+1. 🗣 Commented on [#68](https://github.com/rust-github/template/pull/68#issuecomment-2727481020) in [rust-github/template](https://github.com/rust-github/template)
+2. ❌ Closed PR [#68](https://github.com/rust-github/template/pull/68) in [rust-github/template](https://github.com/rust-github/template)
+3. 🗣 Commented on [#67](https://github.com/rust-github/template/pull/67#issuecomment-2727480958) in [rust-github/template](https://github.com/rust-github/template)
+4. ❗ Opened issue [#69](https://github.com/rust-github/template/issues/69) in [rust-github/template](https://github.com/rust-github/template)
+5. 🔒 Closed issue [#66](https://github.com/rust-github/template/issues/66) in [rust-github/template](https://github.com/rust-github/template)
 <!--END_SECTION:activity-->
   
 </details>
