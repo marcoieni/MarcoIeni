@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/marco-test-org/codeowners-test/pull/6) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
-2. 🎉 Merged PR [#677](https://github.com/rust-lang/simpleinfra/pull/677) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#1701](https://github.com/rust-lang/team/pull/1701) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🎉 Merged PR [#1700](https://github.com/rust-lang/team/pull/1700) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#127](https://github.com/rust-lang/sync-team/pull/127#issuecomment-2733952407) in [rust-lang/sync-team](https://github.com/rust-lang/sync-team)
+1. 🗣 Commented on [#1](https://github.com/jdssl/ratatui/pull/1#issuecomment-2739366609) in [jdssl/ratatui](https://github.com/jdssl/ratatui)
+2. 🎉 Merged PR [#6](https://github.com/marco-test-org/codeowners-test/pull/6) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
+3. 🎉 Merged PR [#677](https://github.com/rust-lang/simpleinfra/pull/677) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🎉 Merged PR [#1701](https://github.com/rust-lang/team/pull/1701) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#1700](https://github.com/rust-lang/team/pull/1700) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
