@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1702](https://github.com/rust-lang/team/pull/1702#issuecomment-2740006726) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🎉 Merged PR [#1705](https://github.com/rust-lang/team/pull/1705) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#1706](https://github.com/rust-lang/team/pull/1706#issuecomment-2739762719) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#1706](https://github.com/rust-lang/team/pull/1706) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#1](https://github.com/jdssl/ratatui/pull/1#issuecomment-2739366609) in [jdssl/ratatui](https://github.com/jdssl/ratatui)
+1. 🎉 Merged PR [#1702](https://github.com/rust-lang/team/pull/1702) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#138745](https://github.com/rust-lang/rust/pull/138745#issuecomment-2740195453) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 💪 Opened PR [#138745](https://github.com/rust-lang/rust/pull/138745) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#1702](https://github.com/rust-lang/team/pull/1702#issuecomment-2740006726) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#1705](https://github.com/rust-lang/team/pull/1705) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
