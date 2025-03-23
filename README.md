@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2144](https://github.com/release-plz/release-plz/issues/2144#issuecomment-2746207301) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2144](https://github.com/release-plz/release-plz/issues/2144#issuecomment-2746171935) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. ❗ Opened issue [#2144](https://github.com/release-plz/release-plz/issues/2144) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2140](https://github.com/release-plz/release-plz/pull/2140) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🎉 Merged PR [#2141](https://github.com/release-plz/release-plz/pull/2141) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#1](https://github.com/vittorioromeo/D2J2025/pull/1) in [vittorioromeo/D2J2025](https://github.com/vittorioromeo/D2J2025)
+2. 🗣 Commented on [#2144](https://github.com/release-plz/release-plz/issues/2144#issuecomment-2746207301) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2144](https://github.com/release-plz/release-plz/issues/2144#issuecomment-2746171935) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. ❗ Opened issue [#2144](https://github.com/release-plz/release-plz/issues/2144) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#2140](https://github.com/release-plz/release-plz/pull/2140) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
