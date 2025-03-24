@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/vittorioromeo/D2J2025/pull/1) in [vittorioromeo/D2J2025](https://github.com/vittorioromeo/D2J2025)
-2. 🗣 Commented on [#2144](https://github.com/release-plz/release-plz/issues/2144#issuecomment-2746207301) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#2144](https://github.com/release-plz/release-plz/issues/2144#issuecomment-2746171935) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. ❗ Opened issue [#2144](https://github.com/release-plz/release-plz/issues/2144) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🎉 Merged PR [#2140](https://github.com/release-plz/release-plz/pull/2140) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🎉 Merged PR [#1709](https://github.com/rust-lang/team/pull/1709) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🎉 Merged PR [#1712](https://github.com/rust-lang/team/pull/1712) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🎉 Merged PR [#1713](https://github.com/rust-lang/team/pull/1713) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 💪 Opened PR [#1](https://github.com/vittorioromeo/D2J2025/pull/1) in [vittorioromeo/D2J2025](https://github.com/vittorioromeo/D2J2025)
+5. 🗣 Commented on [#2144](https://github.com/release-plz/release-plz/issues/2144#issuecomment-2746207301) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
