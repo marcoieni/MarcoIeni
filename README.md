@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1759](https://github.com/rust-lang/team/issues/1759) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🎉 Merged PR [#1757](https://github.com/rust-lang/team/pull/1757) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#1754](https://github.com/rust-lang/team/pull/1754) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#1758](https://github.com/rust-lang/team/pull/1758) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 💪 Opened PR [#1757](https://github.com/rust-lang/team/pull/1757) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#1759](https://github.com/rust-lang/team/issues/1759#issuecomment-2772800107) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#1759](https://github.com/rust-lang/team/issues/1759#issuecomment-2772712311) in [rust-lang/team](https://github.com/rust-lang/team)
+3. ❗ Opened issue [#1759](https://github.com/rust-lang/team/issues/1759) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🎉 Merged PR [#1757](https://github.com/rust-lang/team/pull/1757) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#1754](https://github.com/rust-lang/team/pull/1754) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
