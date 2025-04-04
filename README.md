@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/marcoieni/pulumi-test/pull/1) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
-2. 🗣 Commented on [#1763](https://github.com/rust-lang/team/pull/1763#issuecomment-2778444947) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 💪 Opened PR [#1764](https://github.com/rust-lang/team/pull/1764) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#2149](https://github.com/release-plz/release-plz/pull/2149#issuecomment-2773499734) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🚀 Published release [v0.5.102](https://github.com/release-plz/action/releases/tag/v0.5.102) in [release-plz/action](https://github.com/release-plz/action)
+1. 🎉 Merged PR [#2](https://github.com/marcoieni/pulumi-test/pull/2) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+2. 🗣 Commented on [#2](https://github.com/marcoieni/pulumi-test/pull/2#issuecomment-2779102611) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+3. 💪 Opened PR [#2](https://github.com/marcoieni/pulumi-test/pull/2) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+4. 🎉 Merged PR [#1](https://github.com/marcoieni/pulumi-test/pull/1) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+5. 💪 Opened PR [#1](https://github.com/marcoieni/pulumi-test/pull/1) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
 <!--END_SECTION:activity-->
   
 </details>
