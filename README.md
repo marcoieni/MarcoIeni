@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2149](https://github.com/release-plz/release-plz/pull/2149#issuecomment-2773499734) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🚀 Published release [v0.5.102](https://github.com/release-plz/action/releases/tag/v0.5.102) in [release-plz/action](https://github.com/release-plz/action)
-3. 🎉 Merged PR [#199](https://github.com/release-plz/action/pull/199) in [release-plz/action](https://github.com/release-plz/action)
-4. 💪 Opened PR [#199](https://github.com/release-plz/action/pull/199) in [release-plz/action](https://github.com/release-plz/action)
-5. 💪 Opened PR [#2161](https://github.com/release-plz/release-plz/pull/2161) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#1](https://github.com/marcoieni/pulumi-test/pull/1) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+2. 🗣 Commented on [#1763](https://github.com/rust-lang/team/pull/1763#issuecomment-2778444947) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 💪 Opened PR [#1764](https://github.com/rust-lang/team/pull/1764) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#2149](https://github.com/release-plz/release-plz/pull/2149#issuecomment-2773499734) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🚀 Published release [v0.5.102](https://github.com/release-plz/action/releases/tag/v0.5.102) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
