@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1764](https://github.com/rust-lang/team/pull/1764#issuecomment-2783604543) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🎉 Merged PR [#197](https://github.com/rust-lang/infra-team/pull/197) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 💪 Opened PR [#197](https://github.com/rust-lang/infra-team/pull/197) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. 🗣 Commented on [#2155](https://github.com/release-plz/release-plz/issues/2155#issuecomment-2779734086) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#2163](https://github.com/release-plz/release-plz/issues/2163#issuecomment-2779730243) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#1896](https://github.com/release-plz/release-plz/issues/1896#issuecomment-2784054146) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#1763](https://github.com/rust-lang/team/pull/1763#issuecomment-2783837852) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🔒 Closed issue [#87](https://github.com/rust-lang/project-stable-mir/issues/87) in [rust-lang/project-stable-mir](https://github.com/rust-lang/project-stable-mir)
+4. 🗣 Commented on [#1764](https://github.com/rust-lang/team/pull/1764#issuecomment-2783604543) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#197](https://github.com/rust-lang/infra-team/pull/197) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
