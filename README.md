@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#700](https://github.com/rust-lang/simpleinfra/pull/700) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🗣 Commented on [#696](https://github.com/rust-lang/simpleinfra/pull/696#issuecomment-2786416928) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#699](https://github.com/rust-lang/simpleinfra/pull/699) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#699](https://github.com/rust-lang/simpleinfra/pull/699) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🎉 Merged PR [#696](https://github.com/rust-lang/simpleinfra/pull/696) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 💪 Opened PR [#14700](https://github.com/pulumi/docs/pull/14700) in [pulumi/docs](https://github.com/pulumi/docs)
+2. 💪 Opened PR [#3](https://github.com/marcoieni/pulumi-test/pull/3) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+3. 💪 Opened PR [#700](https://github.com/rust-lang/simpleinfra/pull/700) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🗣 Commented on [#696](https://github.com/rust-lang/simpleinfra/pull/696#issuecomment-2786416928) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🎉 Merged PR [#699](https://github.com/rust-lang/simpleinfra/pull/699) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
