@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4255](https://github.com/rust-lang/miri/pull/4255#issuecomment-2785586004) in [rust-lang/miri](https://github.com/rust-lang/miri)
-2. 🗣 Commented on [#1896](https://github.com/release-plz/release-plz/issues/1896#issuecomment-2784054146) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#1763](https://github.com/rust-lang/team/pull/1763#issuecomment-2783837852) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🔒 Closed issue [#87](https://github.com/rust-lang/project-stable-mir/issues/87) in [rust-lang/project-stable-mir](https://github.com/rust-lang/project-stable-mir)
-5. 🗣 Commented on [#1764](https://github.com/rust-lang/team/pull/1764#issuecomment-2783604543) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#696](https://github.com/rust-lang/simpleinfra/pull/696#issuecomment-2785967049) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🗣 Commented on [#696](https://github.com/rust-lang/simpleinfra/pull/696#issuecomment-2785963218) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🗣 Commented on [#4255](https://github.com/rust-lang/miri/pull/4255#issuecomment-2785586004) in [rust-lang/miri](https://github.com/rust-lang/miri)
+4. 🗣 Commented on [#1896](https://github.com/release-plz/release-plz/issues/1896#issuecomment-2784054146) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#1763](https://github.com/rust-lang/team/pull/1763#issuecomment-2783837852) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
