@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/marcoieni/pulumi-test/pull/13#issuecomment-2791907046) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
-2. ❌ Closed PR [#13](https://github.com/marcoieni/pulumi-test/pull/13) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
-3. ❌ Closed PR [#12](https://github.com/marcoieni/pulumi-test/pull/12) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
-4. 🗣 Commented on [#12](https://github.com/marcoieni/pulumi-test/pull/12#issuecomment-2791862545) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
-5. 💪 Opened PR [#14700](https://github.com/pulumi/docs/pull/14700) in [pulumi/docs](https://github.com/pulumi/docs)
+1. 💪 Opened PR [#14](https://github.com/marcoieni/pulumi-test/pull/14) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+2. ❌ Closed PR [#11](https://github.com/marcoieni/pulumi-test/pull/11) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+3. 🗣 Commented on [#13](https://github.com/marcoieni/pulumi-test/pull/13#issuecomment-2791907046) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+4. ❌ Closed PR [#13](https://github.com/marcoieni/pulumi-test/pull/13) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
+5. ❌ Closed PR [#12](https://github.com/marcoieni/pulumi-test/pull/12) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
 <!--END_SECTION:activity-->
   
 </details>
