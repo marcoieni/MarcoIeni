@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1896](https://github.com/release-plz/release-plz/issues/1896) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🎉 Merged PR [#2176](https://github.com/release-plz/release-plz/pull/2176) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#2159](https://github.com/release-plz/release-plz/issues/2159#issuecomment-2799903722) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2173](https://github.com/release-plz/release-plz/pull/2173) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#2173](https://github.com/release-plz/release-plz/pull/2173#issuecomment-2799901792) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🚀 Published release [v0.5.104](https://github.com/release-plz/action/releases/tag/v0.5.104) in [release-plz/action](https://github.com/release-plz/action)
+2. 🎉 Merged PR [#202](https://github.com/release-plz/action/pull/202) in [release-plz/action](https://github.com/release-plz/action)
+3. 💪 Opened PR [#202](https://github.com/release-plz/action/pull/202) in [release-plz/action](https://github.com/release-plz/action)
+4. 🎉 Merged PR [#434](https://github.com/rust-unofficial/patterns/pull/434) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🎉 Merged PR [#2177](https://github.com/release-plz/release-plz/pull/2177) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
