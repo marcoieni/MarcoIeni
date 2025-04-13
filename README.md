@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/marcoieni/pulumi-test/pull/14) in [marcoieni/pulumi-test](https://github.com/marcoieni/pulumi-test)
-2. 🗣 Commented on [#2159](https://github.com/release-plz/release-plz/issues/2159#issuecomment-2795783970) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#200](https://github.com/release-plz/action/issues/200#issuecomment-2795138381) in [release-plz/action](https://github.com/release-plz/action)
-4. 🗣 Commented on [#2159](https://github.com/release-plz/release-plz/issues/2159#issuecomment-2795129237) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#2148](https://github.com/release-plz/release-plz/issues/2148#issuecomment-2795117290) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🔒 Closed issue [#1896](https://github.com/release-plz/release-plz/issues/1896) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🎉 Merged PR [#2176](https://github.com/release-plz/release-plz/pull/2176) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2159](https://github.com/release-plz/release-plz/issues/2159#issuecomment-2799903722) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🎉 Merged PR [#2173](https://github.com/release-plz/release-plz/pull/2173) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2173](https://github.com/release-plz/release-plz/pull/2173#issuecomment-2799901792) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
