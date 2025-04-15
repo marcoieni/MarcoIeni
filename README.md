@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#171](https://github.com/rust-lang/leadership-council/issues/171) in [rust-lang/leadership-council](https://github.com/rust-lang/leadership-council)
-2. 🚀 Published release [v0.5.104](https://github.com/release-plz/action/releases/tag/v0.5.104) in [release-plz/action](https://github.com/release-plz/action)
-3. 🎉 Merged PR [#202](https://github.com/release-plz/action/pull/202) in [release-plz/action](https://github.com/release-plz/action)
-4. 💪 Opened PR [#202](https://github.com/release-plz/action/pull/202) in [release-plz/action](https://github.com/release-plz/action)
-5. 🎉 Merged PR [#434](https://github.com/rust-unofficial/patterns/pull/434) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+1. 💪 Opened PR [#139859](https://github.com/rust-lang/rust/pull/139859) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. ❗ Opened issue [#171](https://github.com/rust-lang/leadership-council/issues/171) in [rust-lang/leadership-council](https://github.com/rust-lang/leadership-council)
+3. 🚀 Published release [v0.5.104](https://github.com/release-plz/action/releases/tag/v0.5.104) in [release-plz/action](https://github.com/release-plz/action)
+4. 🎉 Merged PR [#202](https://github.com/release-plz/action/pull/202) in [release-plz/action](https://github.com/release-plz/action)
+5. 💪 Opened PR [#202](https://github.com/release-plz/action/pull/202) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
