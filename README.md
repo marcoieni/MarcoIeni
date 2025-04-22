@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2820257068) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 💪 Opened PR [#140148](https://github.com/rust-lang/rust/pull/140148) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#138745](https://github.com/rust-lang/rust/pull/138745#issuecomment-2820236741) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. ❌ Closed PR [#138745](https://github.com/rust-lang/rust/pull/138745) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🔒 Closed issue [#23](https://github.com/rust-lang/project-safe-transmute/issues/23) in [rust-lang/project-safe-transmute](https://github.com/rust-lang/project-safe-transmute)
+1. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2820840026) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2820822274) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2820821450) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2820793508) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#138699](https://github.com/rust-lang/rust/pull/138699#issuecomment-2820788107) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
