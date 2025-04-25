@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/release-plz/release-plz/issues/174#issuecomment-2829102986) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2194](https://github.com/release-plz/release-plz/issues/2194#issuecomment-2824812408) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2824016846) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2823980024) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🔒 Closed issue [#4282](https://github.com/rust-lang/miri/issues/4282) in [rust-lang/miri](https://github.com/rust-lang/miri)
+1. 🗣 Commented on [#2197](https://github.com/release-plz/release-plz/issues/2197#issuecomment-2829625447) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🔓 Reopened issue [#2197](https://github.com/release-plz/release-plz/issues/2197) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#174](https://github.com/release-plz/release-plz/issues/174#issuecomment-2829102986) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#2194](https://github.com/release-plz/release-plz/issues/2194#issuecomment-2824812408) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2824016846) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
