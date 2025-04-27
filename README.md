@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2197](https://github.com/release-plz/release-plz/issues/2197#issuecomment-2829625447) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🔓 Reopened issue [#2197](https://github.com/release-plz/release-plz/issues/2197) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#174](https://github.com/release-plz/release-plz/issues/174#issuecomment-2829102986) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🗣 Commented on [#2194](https://github.com/release-plz/release-plz/issues/2194#issuecomment-2824812408) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#140148](https://github.com/rust-lang/rust/pull/140148#issuecomment-2824016846) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#140349](https://github.com/rust-lang/rust/pull/140349#issuecomment-2832621317) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 💪 Opened PR [#140349](https://github.com/rust-lang/rust/pull/140349) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#140347](https://github.com/rust-lang/rust/pull/140347#issuecomment-2832616874) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 💪 Opened PR [#140347](https://github.com/rust-lang/rust/pull/140347) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🔒 Closed issue [#187](https://github.com/rust-lang/trait-system-refactor-initiative/issues/187) in [rust-lang/trait-system-refactor-initiative](https://github.com/rust-lang/trait-system-refactor-initiative)
 <!--END_SECTION:activity-->
   
 </details>
