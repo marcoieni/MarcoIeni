@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/marco-test-org/codeowners-test/pull/10) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
-2. ❌ Closed PR [#9](https://github.com/marco-test-org/codeowners-test/pull/9) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
-3. 🎉 Merged PR [#1793](https://github.com/rust-lang/team/pull/1793) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#9](https://github.com/marco-test-org/codeowners-test/pull/9) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
-5. 🗣 Commented on [#1793](https://github.com/rust-lang/team/pull/1793#issuecomment-2839602748) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#1764](https://github.com/rust-lang/team/pull/1764) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🎉 Merged PR [#10](https://github.com/marco-test-org/codeowners-test/pull/10) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
+3. ❌ Closed PR [#9](https://github.com/marco-test-org/codeowners-test/pull/9) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
+4. 🎉 Merged PR [#1793](https://github.com/rust-lang/team/pull/1793) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 💪 Opened PR [#9](https://github.com/marco-test-org/codeowners-test/pull/9) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
 <!--END_SECTION:activity-->
   
 </details>
