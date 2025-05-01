@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2203](https://github.com/release-plz/release-plz/issues/2203#issuecomment-2842817103) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🎉 Merged PR [#1764](https://github.com/rust-lang/team/pull/1764) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#10](https://github.com/marco-test-org/codeowners-test/pull/10) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
-4. ❌ Closed PR [#9](https://github.com/marco-test-org/codeowners-test/pull/9) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
-5. 🎉 Merged PR [#1793](https://github.com/rust-lang/team/pull/1793) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#1759](https://github.com/rust-lang/team/issues/1759#issuecomment-2843339070) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#2203](https://github.com/release-plz/release-plz/issues/2203#issuecomment-2842817103) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#1764](https://github.com/rust-lang/team/pull/1764) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🎉 Merged PR [#10](https://github.com/marco-test-org/codeowners-test/pull/10) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
+5. ❌ Closed PR [#9](https://github.com/marco-test-org/codeowners-test/pull/9) in [marco-test-org/codeowners-test](https://github.com/marco-test-org/codeowners-test)
 <!--END_SECTION:activity-->
   
 </details>
