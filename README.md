@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2228](https://github.com/release-plz/release-plz/issues/2228) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#140772](https://github.com/rust-lang/rust/pull/140772#issuecomment-2883198744) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#141009](https://github.com/rust-lang/rust/pull/141009#issuecomment-2883187698) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#140754](https://github.com/rust-lang/rust/pull/140754#issuecomment-2883084965) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#136264](https://github.com/rust-lang/rust/pull/136264#issuecomment-2883073523) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#141036](https://github.com/rust-lang/rust/pull/141036#issuecomment-2884260196) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#140772](https://github.com/rust-lang/rust/pull/140772#issuecomment-2883904129) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#136264](https://github.com/rust-lang/rust/pull/136264#issuecomment-2883878576) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#140754](https://github.com/rust-lang/rust/pull/140754#issuecomment-2883876948) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#141036](https://github.com/rust-lang/rust/pull/141036#issuecomment-2883871889) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
