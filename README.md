@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/rust-lang/infra-team/issues/189#issuecomment-2901249848) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🔒 Closed issue [#189](https://github.com/rust-lang/infra-team/issues/189) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🗣 Commented on [#436](https://github.com/rust-unofficial/patterns/pull/436#issuecomment-2901096083) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🗣 Commented on [#141389](https://github.com/rust-lang/rust/pull/141389#issuecomment-2900791715) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#141346](https://github.com/rust-lang/rust/pull/141346#issuecomment-2900789479) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🔒 Closed issue [#217](https://github.com/rust-lang/trait-system-refactor-initiative/issues/217) in [rust-lang/trait-system-refactor-initiative](https://github.com/rust-lang/trait-system-refactor-initiative)
+2. 🗣 Commented on [#189](https://github.com/rust-lang/infra-team/issues/189#issuecomment-2901249848) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 🔒 Closed issue [#189](https://github.com/rust-lang/infra-team/issues/189) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 🗣 Commented on [#436](https://github.com/rust-unofficial/patterns/pull/436#issuecomment-2901096083) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+5. 🗣 Commented on [#141389](https://github.com/rust-lang/rust/pull/141389#issuecomment-2900791715) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
