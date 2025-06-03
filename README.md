@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141777](https://github.com/rust-lang/rust/pull/141777#issuecomment-2934106978) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🎉 Merged PR [#1859](https://github.com/rust-lang/team/pull/1859) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🔒 Closed issue [#221](https://github.com/rust-lang/trait-system-refactor-initiative/issues/221) in [rust-lang/trait-system-refactor-initiative](https://github.com/rust-lang/trait-system-refactor-initiative)
-4. 🎉 Merged PR [#1858](https://github.com/rust-lang/team/pull/1858) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#141910](https://github.com/rust-lang/rust/pull/141910#issuecomment-2930662689) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 💪 Opened PR [#1479](https://github.com/rust-lang/cc-rs/pull/1479) in [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs)
+2. ❌ Closed PR [#1](https://github.com/marcoieni/cc-rs/pull/1) in [marcoieni/cc-rs](https://github.com/marcoieni/cc-rs)
+3. 💪 Opened PR [#1](https://github.com/marcoieni/cc-rs/pull/1) in [marcoieni/cc-rs](https://github.com/marcoieni/cc-rs)
+4. 🗣 Commented on [#138699](https://github.com/rust-lang/rust/pull/138699#issuecomment-2934342671) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#141777](https://github.com/rust-lang/rust/pull/141777#issuecomment-2934106978) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
