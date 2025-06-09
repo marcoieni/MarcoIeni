@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2254](https://github.com/release-plz/release-plz/issues/2254#issuecomment-2949888330) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#443](https://github.com/rust-unofficial/patterns/pull/443#issuecomment-2949875403) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-3. 💪 Opened PR [#443](https://github.com/rust-unofficial/patterns/pull/443) in [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
-4. 🎉 Merged PR [#1848](https://github.com/rust-lang/team/pull/1848) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#201](https://github.com/rust-lang/polonius/pull/201#issuecomment-2949614889) in [rust-lang/polonius](https://github.com/rust-lang/polonius)
+1. 🗣 Commented on [#307](https://github.com/rust-lang/bors/pull/307#issuecomment-2955342994) in [rust-lang/bors](https://github.com/rust-lang/bors)
+2. 💪 Opened PR [#886](https://github.com/rust-lang/rust-forge/pull/886) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+3. 🎉 Merged PR [#868](https://github.com/rust-lang/rust-forge/pull/868) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+4. 🗣 Commented on [#142231](https://github.com/rust-lang/rust/pull/142231#issuecomment-2955166166) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 🗣 Commented on [#142231](https://github.com/rust-lang/rust/pull/142231#issuecomment-2955090744) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
