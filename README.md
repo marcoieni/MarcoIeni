@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142245](https://github.com/rust-lang/rust/pull/142245#issuecomment-2958172708) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#142282](https://github.com/rust-lang/rust/pull/142282#issuecomment-2957817723) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#142282](https://github.com/rust-lang/rust/pull/142282#issuecomment-2957815804) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#4481](https://github.com/rust-lang/libc/pull/4481#issuecomment-2957813868) in [rust-lang/libc](https://github.com/rust-lang/libc)
-5. 🗣 Commented on [#142282](https://github.com/rust-lang/rust/pull/142282#issuecomment-2957799593) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#142245](https://github.com/rust-lang/rust/pull/142245#issuecomment-2958537633) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#343](https://github.com/rust-lang/wg-async/pull/343#issuecomment-2958475033) in [rust-lang/wg-async](https://github.com/rust-lang/wg-async)
+3. 🗣 Commented on [#343](https://github.com/rust-lang/wg-async/pull/343#issuecomment-2958470137) in [rust-lang/wg-async](https://github.com/rust-lang/wg-async)
+4. 🎉 Merged PR [#343](https://github.com/rust-lang/wg-async/pull/343) in [rust-lang/wg-async](https://github.com/rust-lang/wg-async)
+5. 🎉 Merged PR [#724](https://github.com/rust-lang/simpleinfra/pull/724) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
