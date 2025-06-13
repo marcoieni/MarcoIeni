@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/marcoieni/trusted-publishing-action-draft/pull/2) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-2. 💪 Opened PR [#2](https://github.com/marcoieni/trusted-publishing-action-draft/pull/2) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-3. 🗣 Commented on [#71](https://github.com/rust-lang/rustc-demangle/pull/71#issuecomment-2966808122) in [rust-lang/rustc-demangle](https://github.com/rust-lang/rustc-demangle)
-4. 🎉 Merged PR [#1](https://github.com/marcoieni/trusted-publishing-action-draft/pull/1) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-5. 💪 Opened PR [#1](https://github.com/marcoieni/trusted-publishing-action-draft/pull/1) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+1. 🎉 Merged PR [#891](https://github.com/rust-lang/rust-forge/pull/891) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+2. 🗣 Commented on [#142434](https://github.com/rust-lang/rust/pull/142434#issuecomment-2969396476) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🎉 Merged PR [#2](https://github.com/marcoieni/trusted-publishing-action-draft/pull/2) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+4. 💪 Opened PR [#2](https://github.com/marcoieni/trusted-publishing-action-draft/pull/2) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+5. 🗣 Commented on [#71](https://github.com/rust-lang/rustc-demangle/pull/71#issuecomment-2966808122) in [rust-lang/rustc-demangle](https://github.com/rust-lang/rustc-demangle)
 <!--END_SECTION:activity-->
   
 </details>
