@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/marcoieni/trusted-publishing-action-draft/pull/4) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-2. 🗣 Commented on [#738](https://github.com/rust-lang/simpleinfra/pull/738#issuecomment-2969683096) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#738](https://github.com/rust-lang/simpleinfra/pull/738) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#4](https://github.com/marcoieni/trusted-publishing-action-draft/pull/4) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-5. 💪 Opened PR [#3](https://github.com/marcoieni/trusted-publishing-action-draft/pull/3) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+1. 🗣 Commented on [#160](https://github.com/rust-lang/infra-team/issues/160#issuecomment-2970281909) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 🎉 Merged PR [#5](https://github.com/marcoieni/trusted-publishing-action-draft/pull/5) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+3. 💪 Opened PR [#5](https://github.com/marcoieni/trusted-publishing-action-draft/pull/5) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+4. 🎉 Merged PR [#3](https://github.com/marcoieni/trusted-publishing-action-draft/pull/3) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+5. 🎉 Merged PR [#4](https://github.com/marcoieni/trusted-publishing-action-draft/pull/4) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
 <!--END_SECTION:activity-->
   
 </details>
