@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142245](https://github.com/rust-lang/rust/pull/142245#issuecomment-2975938200) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#4481](https://github.com/rust-lang/libc/pull/4481#issuecomment-2972280140) in [rust-lang/libc](https://github.com/rust-lang/libc)
-3. 💪 Opened PR [#9](https://github.com/marcoieni/trusted-publishing-action-draft/pull/9) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-4. 🎉 Merged PR [#8](https://github.com/marcoieni/trusted-publishing-action-draft/pull/8) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-5. 💪 Opened PR [#8](https://github.com/marcoieni/trusted-publishing-action-draft/pull/8) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+1. 🗣 Commented on [#140772](https://github.com/rust-lang/rust/pull/140772#issuecomment-2977443802) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#200](https://github.com/rust-lang/infra-team/issues/200#issuecomment-2977403168) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 🗣 Commented on [#142245](https://github.com/rust-lang/rust/pull/142245#issuecomment-2975938200) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#4481](https://github.com/rust-lang/libc/pull/4481#issuecomment-2972280140) in [rust-lang/libc](https://github.com/rust-lang/libc)
+5. 💪 Opened PR [#9](https://github.com/marcoieni/trusted-publishing-action-draft/pull/9) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
 <!--END_SECTION:activity-->
   
 </details>
