@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2240](https://github.com/release-plz/release-plz/pull/2240) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🎉 Merged PR [#2274](https://github.com/release-plz/release-plz/pull/2274) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 💪 Opened PR [#2274](https://github.com/release-plz/release-plz/pull/2274) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🔒 Closed issue [#2242](https://github.com/release-plz/release-plz/issues/2242) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🎉 Merged PR [#2257](https://github.com/release-plz/release-plz/pull/2257) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#11389](https://github.com/rust-lang/crates.io/pull/11389) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+2. 🎉 Merged PR [#16](https://github.com/marcoieni/trusted-publishing-action-draft/pull/16) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+3. 💪 Opened PR [#16](https://github.com/marcoieni/trusted-publishing-action-draft/pull/16) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+4. 🎉 Merged PR [#15](https://github.com/marcoieni/trusted-publishing-action-draft/pull/15) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+5. 💪 Opened PR [#15](https://github.com/marcoieni/trusted-publishing-action-draft/pull/15) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
 <!--END_SECTION:activity-->
   
 </details>
