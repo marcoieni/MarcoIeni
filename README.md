@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11389](https://github.com/rust-lang/crates.io/pull/11389) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-2. 🎉 Merged PR [#16](https://github.com/marcoieni/trusted-publishing-action-draft/pull/16) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-3. 💪 Opened PR [#16](https://github.com/marcoieni/trusted-publishing-action-draft/pull/16) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-4. 🎉 Merged PR [#15](https://github.com/marcoieni/trusted-publishing-action-draft/pull/15) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-5. 💪 Opened PR [#15](https://github.com/marcoieni/trusted-publishing-action-draft/pull/15) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+1. 🗣 Commented on [#77](https://github.com/rust-lang/infra-team/issues/77#issuecomment-2988153162) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 🔒 Closed issue [#77](https://github.com/rust-lang/infra-team/issues/77) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 🎉 Merged PR [#17](https://github.com/marcoieni/trusted-publishing-action-draft/pull/17) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+4. 💪 Opened PR [#17](https://github.com/marcoieni/trusted-publishing-action-draft/pull/17) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+5. 💪 Opened PR [#11389](https://github.com/rust-lang/crates.io/pull/11389) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
 <!--END_SECTION:activity-->
   
 </details>
