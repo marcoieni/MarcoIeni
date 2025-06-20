@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#742](https://github.com/rust-lang/simpleinfra/pull/742) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🗣 Commented on [#742](https://github.com/rust-lang/simpleinfra/pull/742#issuecomment-2991752149) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#742](https://github.com/rust-lang/simpleinfra/pull/742#issuecomment-2991724302) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#742](https://github.com/rust-lang/simpleinfra/pull/742) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#741](https://github.com/rust-lang/simpleinfra/pull/741) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🎉 Merged PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+2. 💪 Opened PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+3. 🎉 Merged PR [#20](https://github.com/marcoieni/trusted-publishing-action-draft/pull/20) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+4. 💪 Opened PR [#20](https://github.com/marcoieni/trusted-publishing-action-draft/pull/20) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+5. 🎉 Merged PR [#19](https://github.com/marcoieni/trusted-publishing-action-draft/pull/19) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
 <!--END_SECTION:activity-->
   
 </details>
