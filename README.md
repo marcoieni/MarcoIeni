@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-2. 💪 Opened PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-3. 🎉 Merged PR [#20](https://github.com/marcoieni/trusted-publishing-action-draft/pull/20) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-4. 💪 Opened PR [#20](https://github.com/marcoieni/trusted-publishing-action-draft/pull/20) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-5. 🎉 Merged PR [#19](https://github.com/marcoieni/trusted-publishing-action-draft/pull/19) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+1. 🗣 Commented on [#2244](https://github.com/release-plz/release-plz/issues/2244#issuecomment-2994200585) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#2275](https://github.com/release-plz/release-plz/issues/2275#issuecomment-2994195367) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+4. 💪 Opened PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+5. 🎉 Merged PR [#20](https://github.com/marcoieni/trusted-publishing-action-draft/pull/20) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
 <!--END_SECTION:activity-->
   
 </details>
