@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2244](https://github.com/release-plz/release-plz/issues/2244#issuecomment-2994200585) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2275](https://github.com/release-plz/release-plz/issues/2275#issuecomment-2994195367) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🎉 Merged PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-4. 💪 Opened PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
-5. 🎉 Merged PR [#20](https://github.com/marcoieni/trusted-publishing-action-draft/pull/20) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
+1. 💪 Opened PR [#1889](https://github.com/rust-lang/team/pull/1889) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#143041](https://github.com/rust-lang/rust/pull/143041#issuecomment-3007647336) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#2244](https://github.com/release-plz/release-plz/issues/2244#issuecomment-2994200585) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#2275](https://github.com/release-plz/release-plz/issues/2275#issuecomment-2994195367) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#21](https://github.com/marcoieni/trusted-publishing-action-draft/pull/21) in [marcoieni/trusted-publishing-action-draft](https://github.com/marcoieni/trusted-publishing-action-draft)
 <!--END_SECTION:activity-->
   
 </details>
