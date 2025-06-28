@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/rust-lang/crates-io-auth-action/issues/5) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-2. ❗ Opened issue [#4](https://github.com/rust-lang/crates-io-auth-action/issues/4) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-3. ❗ Opened issue [#3](https://github.com/rust-lang/crates-io-auth-action/issues/3) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-4. ❗ Opened issue [#2](https://github.com/rust-lang/crates-io-auth-action/issues/2) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 💪 Opened PR [#1](https://github.com/rust-lang/crates-io-auth-action/pull/1) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 🗣 Commented on [#2275](https://github.com/release-plz/release-plz/issues/2275#issuecomment-3015266866) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🎉 Merged PR [#2283](https://github.com/release-plz/release-plz/pull/2283) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. ❗ Opened issue [#5](https://github.com/rust-lang/crates-io-auth-action/issues/5) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+4. ❗ Opened issue [#4](https://github.com/rust-lang/crates-io-auth-action/issues/4) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. ❗ Opened issue [#3](https://github.com/rust-lang/crates-io-auth-action/issues/3) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
 <!--END_SECTION:activity-->
   
 </details>
