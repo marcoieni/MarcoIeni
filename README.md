@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/rust-lang/crates-io-auth-action/pull/6) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-2. 💪 Opened PR [#6](https://github.com/rust-lang/crates-io-auth-action/pull/6) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-3. 🎉 Merged PR [#1](https://github.com/rust-lang/crates-io-auth-action/pull/1) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-4. 🗣 Commented on [#1](https://github.com/rust-lang/crates-io-auth-action/pull/1#issuecomment-3018168552) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 🗣 Commented on [#5](https://github.com/rust-lang/crates-io-auth-action/issues/5#issuecomment-3018103231) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. ❗ Opened issue [#20](https://github.com/IBM/actionspz/issues/20) in [IBM/actionspz](https://github.com/IBM/actionspz)
+2. ❗ Opened issue [#1892](https://github.com/rust-lang/team/issues/1892) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🎉 Merged PR [#6](https://github.com/rust-lang/crates-io-auth-action/pull/6) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+4. 💪 Opened PR [#6](https://github.com/rust-lang/crates-io-auth-action/pull/6) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. 🎉 Merged PR [#1](https://github.com/rust-lang/crates-io-auth-action/pull/1) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
 <!--END_SECTION:activity-->
   
 </details>
