@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/IBM/actionspz/issues/20) in [IBM/actionspz](https://github.com/IBM/actionspz)
-2. ❗ Opened issue [#1892](https://github.com/rust-lang/team/issues/1892) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#6](https://github.com/rust-lang/crates-io-auth-action/pull/6) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-4. 💪 Opened PR [#6](https://github.com/rust-lang/crates-io-auth-action/pull/6) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 🎉 Merged PR [#1](https://github.com/rust-lang/crates-io-auth-action/pull/1) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 🗣 Commented on [#143274](https://github.com/rust-lang/rust/pull/143274#issuecomment-3022962345) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#143274](https://github.com/rust-lang/rust/pull/143274#issuecomment-3022914160) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. ❌ Closed PR [#141342](https://github.com/rust-lang/rust/pull/141342) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. ❌ Closed PR [#141697](https://github.com/rust-lang/rust/pull/141697) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. 💪 Opened PR [#143274](https://github.com/rust-lang/rust/pull/143274) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
