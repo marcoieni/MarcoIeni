@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2277](https://github.com/release-plz/release-plz/pull/2277) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2287](https://github.com/release-plz/release-plz/pull/2287#issuecomment-3024762862) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🔒 Closed issue [#2286](https://github.com/release-plz/release-plz/issues/2286) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2287](https://github.com/release-plz/release-plz/pull/2287) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🎉 Merged PR [#1893](https://github.com/rust-lang/team/pull/1893) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#1889](https://github.com/rust-lang/team/pull/1889#issuecomment-3031452407) in [rust-lang/team](https://github.com/rust-lang/team)
+2. ❗ Opened issue [#13](https://github.com/rust-lang/crates-io-auth-action/issues/13) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+3. 🗣 Commented on [#143283](https://github.com/rust-lang/rust/pull/143283#issuecomment-3031328945) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🎉 Merged PR [#2277](https://github.com/release-plz/release-plz/pull/2277) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2287](https://github.com/release-plz/release-plz/pull/2287#issuecomment-3024762862) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
