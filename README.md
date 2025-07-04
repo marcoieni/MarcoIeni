@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2292](https://github.com/release-plz/release-plz/issues/2292#issuecomment-3033757178) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🎉 Merged PR [#25](https://github.com/rust-lang/crates-io-auth-action/pull/25) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-3. 🎉 Merged PR [#24](https://github.com/rust-lang/crates-io-auth-action/pull/24) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-4. 🔓 Reopened issue [#5](https://github.com/rust-lang/crates-io-auth-action/issues/5) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 🔒 Closed issue [#5](https://github.com/rust-lang/crates-io-auth-action/issues/5) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 🚀 Published release [v1.0.0](https://github.com/rust-lang/crates-io-auth-action/releases/tag/v1.0.0) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+2. 🎉 Merged PR [#26](https://github.com/rust-lang/crates-io-auth-action/pull/26) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+3. 💪 Opened PR [#26](https://github.com/rust-lang/crates-io-auth-action/pull/26) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+4. 🗣 Commented on [#2292](https://github.com/release-plz/release-plz/issues/2292#issuecomment-3034720149) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2291](https://github.com/release-plz/release-plz/issues/2291#issuecomment-3034712950) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
