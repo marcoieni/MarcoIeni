@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2290](https://github.com/release-plz/release-plz/pull/2290) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 💪 Opened PR [#42](https://github.com/rust-lang/thorin/pull/42) in [rust-lang/thorin](https://github.com/rust-lang/thorin)
-3. 💪 Opened PR [#2303](https://github.com/release-plz/release-plz/pull/2303) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2300](https://github.com/release-plz/release-plz/pull/2300) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 💪 Opened PR [#2300](https://github.com/release-plz/release-plz/pull/2300) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🎉 Merged PR [#2304](https://github.com/release-plz/release-plz/pull/2304) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 💪 Opened PR [#2304](https://github.com/release-plz/release-plz/pull/2304) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. ❗ Opened issue [#26](https://github.com/IBM/actionspz/issues/26) in [IBM/actionspz](https://github.com/IBM/actionspz)
+4. ❗ Opened issue [#25](https://github.com/IBM/actionspz/issues/25) in [IBM/actionspz](https://github.com/IBM/actionspz)
+5. ❗ Opened issue [#24](https://github.com/IBM/actionspz/issues/24) in [IBM/actionspz](https://github.com/IBM/actionspz)
 <!--END_SECTION:activity-->
   
 </details>
