@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/rust-lang/ci-mirrors/pull/13) in [rust-lang/ci-mirrors](https://github.com/rust-lang/ci-mirrors)
-2. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3077496685) in [IBM/actionspz](https://github.com/IBM/actionspz)
-3. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3077487735) in [IBM/actionspz](https://github.com/IBM/actionspz)
-4. 🗣 Commented on [#143964](https://github.com/rust-lang/rust/pull/143964#issuecomment-3077413004) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#1868](https://github.com/rust-lang/team/pull/1868#issuecomment-3072317548) in [rust-lang/team](https://github.com/rust-lang/team)
+1. ❗ Opened issue [#33](https://github.com/rust-lang/crates-io-auth-action/issues/33) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+2. 🎉 Merged PR [#13](https://github.com/rust-lang/ci-mirrors/pull/13) in [rust-lang/ci-mirrors](https://github.com/rust-lang/ci-mirrors)
+3. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3077496685) in [IBM/actionspz](https://github.com/IBM/actionspz)
+4. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3077487735) in [IBM/actionspz](https://github.com/IBM/actionspz)
+5. 🗣 Commented on [#143964](https://github.com/rust-lang/rust/pull/143964#issuecomment-3077413004) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
