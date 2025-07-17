@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/rust-lang/crates-io-auth-action/issues/33) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-2. 🎉 Merged PR [#13](https://github.com/rust-lang/ci-mirrors/pull/13) in [rust-lang/ci-mirrors](https://github.com/rust-lang/ci-mirrors)
-3. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3077496685) in [IBM/actionspz](https://github.com/IBM/actionspz)
-4. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3077487735) in [IBM/actionspz](https://github.com/IBM/actionspz)
-5. 🗣 Commented on [#143964](https://github.com/rust-lang/rust/pull/143964#issuecomment-3077413004) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#4461](https://github.com/rust-lang/miri/issues/4461#issuecomment-3083974322) in [rust-lang/miri](https://github.com/rust-lang/miri)
+2. 🗣 Commented on [#144069](https://github.com/rust-lang/rust/pull/144069#issuecomment-3083948110) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 💪 Opened PR [#144069](https://github.com/rust-lang/rust/pull/144069) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#4461](https://github.com/rust-lang/miri/issues/4461#issuecomment-3083933561) in [rust-lang/miri](https://github.com/rust-lang/miri)
+5. ❗ Opened issue [#33](https://github.com/rust-lang/crates-io-auth-action/issues/33) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
 <!--END_SECTION:activity-->
   
 </details>
