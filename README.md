@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2316](https://github.com/release-plz/release-plz/pull/2316) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🎉 Merged PR [#2314](https://github.com/release-plz/release-plz/pull/2314) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#20](https://github.com/IBM/actionspz/issues/20#issuecomment-3090311248) in [IBM/actionspz](https://github.com/IBM/actionspz)
-4. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3088943422) in [IBM/actionspz](https://github.com/IBM/actionspz)
-5. 🗣 Commented on [#144069](https://github.com/rust-lang/rust/pull/144069#issuecomment-3084573680) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🚀 Published release [v0.5.109](https://github.com/release-plz/action/releases/tag/v0.5.109) in [release-plz/action](https://github.com/release-plz/action)
+2. 🎉 Merged PR [#210](https://github.com/release-plz/action/pull/210) in [release-plz/action](https://github.com/release-plz/action)
+3. 💪 Opened PR [#210](https://github.com/release-plz/action/pull/210) in [release-plz/action](https://github.com/release-plz/action)
+4. 🎉 Merged PR [#2305](https://github.com/release-plz/release-plz/pull/2305) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#2265](https://github.com/release-plz/release-plz/pull/2265) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
