@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#751](https://github.com/rust-lang/simpleinfra/pull/751#issuecomment-3096803247) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🔒 Closed issue [#25](https://github.com/IBM/actionspz/issues/25) in [IBM/actionspz](https://github.com/IBM/actionspz)
-3. 🔒 Closed issue [#26](https://github.com/IBM/actionspz/issues/26) in [IBM/actionspz](https://github.com/IBM/actionspz)
-4. 🔒 Closed issue [#29](https://github.com/rust-lang/unsafe-code-guidelines/issues/29) in [rust-lang/unsafe-code-guidelines](https://github.com/rust-lang/unsafe-code-guidelines)
-5. 🗣 Commented on [#752](https://github.com/rust-lang/simpleinfra/pull/752#issuecomment-3096190429) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. ❗ Opened issue [#202](https://github.com/rust-lang/leadership-council/issues/202) in [rust-lang/leadership-council](https://github.com/rust-lang/leadership-council)
+2. 🗣 Commented on [#751](https://github.com/rust-lang/simpleinfra/pull/751#issuecomment-3096803247) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🔒 Closed issue [#25](https://github.com/IBM/actionspz/issues/25) in [IBM/actionspz](https://github.com/IBM/actionspz)
+4. 🔒 Closed issue [#26](https://github.com/IBM/actionspz/issues/26) in [IBM/actionspz](https://github.com/IBM/actionspz)
+5. 🔒 Closed issue [#29](https://github.com/rust-lang/unsafe-code-guidelines/issues/29) in [rust-lang/unsafe-code-guidelines](https://github.com/rust-lang/unsafe-code-guidelines)
 <!--END_SECTION:activity-->
   
 </details>
