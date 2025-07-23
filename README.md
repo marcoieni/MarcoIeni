@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#751](https://github.com/rust-lang/simpleinfra/pull/751#issuecomment-3102107628) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🎉 Merged PR [#381](https://github.com/rust-lang/bors/pull/381) in [rust-lang/bors](https://github.com/rust-lang/bors)
-3. 💪 Opened PR [#381](https://github.com/rust-lang/bors/pull/381) in [rust-lang/bors](https://github.com/rust-lang/bors)
-4. 🎉 Merged PR [#236](https://github.com/rust-lang/homu/pull/236) in [rust-lang/homu](https://github.com/rust-lang/homu)
-5. ❗ Opened issue [#202](https://github.com/rust-lang/leadership-council/issues/202) in [rust-lang/leadership-council](https://github.com/rust-lang/leadership-council)
+1. 🗣 Commented on [#144305](https://github.com/rust-lang/rust/pull/144305#issuecomment-3102816669) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🗣 Commented on [#751](https://github.com/rust-lang/simpleinfra/pull/751#issuecomment-3102107628) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🎉 Merged PR [#381](https://github.com/rust-lang/bors/pull/381) in [rust-lang/bors](https://github.com/rust-lang/bors)
+4. 💪 Opened PR [#381](https://github.com/rust-lang/bors/pull/381) in [rust-lang/bors](https://github.com/rust-lang/bors)
+5. 🎉 Merged PR [#236](https://github.com/rust-lang/homu/pull/236) in [rust-lang/homu](https://github.com/rust-lang/homu)
 <!--END_SECTION:activity-->
   
 </details>
