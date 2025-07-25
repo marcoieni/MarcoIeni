@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1908](https://github.com/rust-lang/team/pull/1908) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#754](https://github.com/rust-lang/simpleinfra/pull/754#issuecomment-3113507147) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#1908](https://github.com/rust-lang/team/pull/1908#issuecomment-3113454851) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🎉 Merged PR [#38](https://github.com/rust-lang/crates-io-auth-action/pull/38) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 🗣 Commented on [#33](https://github.com/rust-lang/crates-io-auth-action/issues/33#issuecomment-3113327801) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 💪 Opened PR [#1](https://github.com/marco-test-org/merge-queue-test/pull/1) in [marco-test-org/merge-queue-test](https://github.com/marco-test-org/merge-queue-test)
+2. 🗣 Commented on [#117](https://github.com/rust-lang/infra-team/issues/117#issuecomment-3117615077) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 🔒 Closed issue [#117](https://github.com/rust-lang/infra-team/issues/117) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. ❗ Opened issue [#1915](https://github.com/rust-lang/team/issues/1915) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#1908](https://github.com/rust-lang/team/pull/1908) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
