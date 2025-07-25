@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/marco-test-org/merge-queue-test/pull/1) in [marco-test-org/merge-queue-test](https://github.com/marco-test-org/merge-queue-test)
-2. 🗣 Commented on [#117](https://github.com/rust-lang/infra-team/issues/117#issuecomment-3117615077) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🔒 Closed issue [#117](https://github.com/rust-lang/infra-team/issues/117) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. ❗ Opened issue [#1915](https://github.com/rust-lang/team/issues/1915) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🎉 Merged PR [#1908](https://github.com/rust-lang/team/pull/1908) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#510](https://github.com/LukeMathWalker/pavex/pull/510#issuecomment-3118734915) in [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex)
+2. 🎉 Merged PR [#3](https://github.com/marco-test-org/merge-queue-test/pull/3) in [marco-test-org/merge-queue-test](https://github.com/marco-test-org/merge-queue-test)
+3. 💪 Opened PR [#3](https://github.com/marco-test-org/merge-queue-test/pull/3) in [marco-test-org/merge-queue-test](https://github.com/marco-test-org/merge-queue-test)
+4. 🎉 Merged PR [#2](https://github.com/marco-test-org/merge-queue-test/pull/2) in [marco-test-org/merge-queue-test](https://github.com/marco-test-org/merge-queue-test)
+5. 💪 Opened PR [#2](https://github.com/marco-test-org/merge-queue-test/pull/2) in [marco-test-org/merge-queue-test](https://github.com/marco-test-org/merge-queue-test)
 <!--END_SECTION:activity-->
   
 </details>
