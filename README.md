@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#754](https://github.com/rust-lang/simpleinfra/pull/754#issuecomment-3113507147) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🗣 Commented on [#1908](https://github.com/rust-lang/team/pull/1908#issuecomment-3113454851) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#38](https://github.com/rust-lang/crates-io-auth-action/pull/38) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-4. 🗣 Commented on [#33](https://github.com/rust-lang/crates-io-auth-action/issues/33#issuecomment-3113327801) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 🔒 Closed issue [#33](https://github.com/rust-lang/crates-io-auth-action/issues/33) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 🎉 Merged PR [#1908](https://github.com/rust-lang/team/pull/1908) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#754](https://github.com/rust-lang/simpleinfra/pull/754#issuecomment-3113507147) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🗣 Commented on [#1908](https://github.com/rust-lang/team/pull/1908#issuecomment-3113454851) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🎉 Merged PR [#38](https://github.com/rust-lang/crates-io-auth-action/pull/38) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. 🗣 Commented on [#33](https://github.com/rust-lang/crates-io-auth-action/issues/33#issuecomment-3113327801) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
 <!--END_SECTION:activity-->
   
 </details>
