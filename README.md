@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#755](https://github.com/rust-lang/simpleinfra/pull/755) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#1919](https://github.com/rust-lang/team/pull/1919) in [rust-lang/team](https://github.com/rust-lang/team)
-3. ❗ Opened issue [#1918](https://github.com/rust-lang/team/issues/1918) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#510](https://github.com/LukeMathWalker/pavex/pull/510#issuecomment-3118734915) in [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex)
-5. 🎉 Merged PR [#3](https://github.com/marco-test-org/merge-queue-test/pull/3) in [marco-test-org/merge-queue-test](https://github.com/marco-test-org/merge-queue-test)
+1. 🗣 Commented on [#1919](https://github.com/rust-lang/team/pull/1919#issuecomment-3127115974) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 💪 Opened PR [#755](https://github.com/rust-lang/simpleinfra/pull/755) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 💪 Opened PR [#1919](https://github.com/rust-lang/team/pull/1919) in [rust-lang/team](https://github.com/rust-lang/team)
+4. ❗ Opened issue [#1918](https://github.com/rust-lang/team/issues/1918) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🗣 Commented on [#510](https://github.com/LukeMathWalker/pavex/pull/510#issuecomment-3118734915) in [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex)
 <!--END_SECTION:activity-->
   
 </details>
