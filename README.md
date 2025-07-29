@@ -125,11 +125,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#757](https://github.com/rust-lang/simpleinfra/pull/757) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. ❗ Opened issue [#756](https://github.com/rust-lang/simpleinfra/issues/756) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#755](https://github.com/rust-lang/simpleinfra/pull/755) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#30](https://github.com/rust-lang/crates-io-auth-action/issues/30#issuecomment-3132255265) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 🗣 Commented on [#1919](https://github.com/rust-lang/team/pull/1919#issuecomment-3127115974) in [rust-lang/team](https://github.com/rust-lang/team)
+1. ❗ Opened issue [#1044](https://github.com/zizmorcore/zizmor/issues/1044) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+2. 💪 Opened PR [#758](https://github.com/rust-lang/simpleinfra/pull/758) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 💪 Opened PR [#757](https://github.com/rust-lang/simpleinfra/pull/757) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. ❗ Opened issue [#756](https://github.com/rust-lang/simpleinfra/issues/756) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🎉 Merged PR [#755](https://github.com/rust-lang/simpleinfra/pull/755) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
