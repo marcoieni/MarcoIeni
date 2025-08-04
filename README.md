@@ -85,11 +85,15 @@ Here are some ideas to get you started:
 
 ### 🧝 Maintainer
 
-- **[rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)** A catalog of Rust design patterns, anti-patterns and idioms.
-  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rust-unofficial/patterns?style=social">
 - **[VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode)** Spacemacs like keybindings for Visual Studio Code.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/VSpaceCode/VSpaceCode?style=social">
 
+---
+
+### 🧌 Former maintainer
+
+- **[rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)** A catalog of Rust design patterns, anti-patterns and idioms.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rust-unofficial/patterns?style=social">
 
 ---
 
