@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2336](https://github.com/release-plz/release-plz/pull/2336) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#145311](https://github.com/rust-lang/rust/pull/145311#issuecomment-3183287083) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#145311](https://github.com/rust-lang/rust/pull/145311#issuecomment-3183256835) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#1922](https://github.com/rust-lang/team/pull/1922#issuecomment-3175217218) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 💪 Opened PR [#1943](https://github.com/rust-lang/team/pull/1943) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🚀 Published release [v0.5.111](https://github.com/release-plz/action/releases/tag/v0.5.111) in [release-plz/action](https://github.com/release-plz/action)
+2. 🎉 Merged PR [#214](https://github.com/release-plz/action/pull/214) in [release-plz/action](https://github.com/release-plz/action)
+3. 💪 Opened PR [#214](https://github.com/release-plz/action/pull/214) in [release-plz/action](https://github.com/release-plz/action)
+4. 🗣 Commented on [#2317](https://github.com/release-plz/release-plz/issues/2317#issuecomment-3185902135) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#213](https://github.com/release-plz/action/pull/213) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
