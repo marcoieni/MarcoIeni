@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2345](https://github.com/release-plz/release-plz/issues/2345#issuecomment-3201938724) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2345](https://github.com/release-plz/release-plz/issues/2345#issuecomment-3201535293) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#764](https://github.com/rust-lang/simpleinfra/pull/764#issuecomment-3200671292) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#145559](https://github.com/rust-lang/rust/pull/145559#issuecomment-3195750035) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#145559](https://github.com/rust-lang/rust/pull/145559#issuecomment-3195729453) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🎉 Merged PR [#2349](https://github.com/release-plz/release-plz/pull/2349) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🔒 Closed issue [#2345](https://github.com/release-plz/release-plz/issues/2345) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#2347](https://github.com/release-plz/release-plz/pull/2347) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#2345](https://github.com/release-plz/release-plz/issues/2345#issuecomment-3201938724) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2345](https://github.com/release-plz/release-plz/issues/2345#issuecomment-3201535293) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
