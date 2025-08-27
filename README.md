@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1681](https://github.com/rust-lang/blog.rust-lang.org/pull/1681) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-2. 🗣 Commented on [#1962](https://github.com/rust-lang/team/pull/1962#issuecomment-3224761472) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#1962](https://github.com/rust-lang/team/pull/1962#issuecomment-3224756753) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#1962](https://github.com/rust-lang/team/pull/1962) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 💪 Opened PR [#1681](https://github.com/rust-lang/blog.rust-lang.org/pull/1681) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+1. 🎉 Merged PR [#331](https://github.com/rust-lang/rfcbot-rs/pull/331) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
+2. 💪 Opened PR [#331](https://github.com/rust-lang/rfcbot-rs/pull/331) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
+3. 💪 Opened PR [#330](https://github.com/rust-lang/rfcbot-rs/pull/330) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
+4. 💪 Opened PR [#1964](https://github.com/rust-lang/team/pull/1964) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#1681](https://github.com/rust-lang/blog.rust-lang.org/pull/1681) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
 <!--END_SECTION:activity-->
   
 </details>
