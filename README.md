@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#195](https://github.com/rust-lang/infra-smoke-tests/issues/195) in [rust-lang/infra-smoke-tests](https://github.com/rust-lang/infra-smoke-tests)
-2. 🎉 Merged PR [#213](https://github.com/rust-lang/infra-team/pull/213) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 💪 Opened PR [#213](https://github.com/rust-lang/infra-team/pull/213) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. ❗ Opened issue [#212](https://github.com/rust-lang/infra-team/issues/212) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. 🗣 Commented on [#2366](https://github.com/release-plz/release-plz/pull/2366#issuecomment-3243065730) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🎉 Merged PR [#214](https://github.com/rust-lang/infra-team/pull/214) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 💪 Opened PR [#214](https://github.com/rust-lang/infra-team/pull/214) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. ❗ Opened issue [#195](https://github.com/rust-lang/infra-smoke-tests/issues/195) in [rust-lang/infra-smoke-tests](https://github.com/rust-lang/infra-smoke-tests)
+4. 🎉 Merged PR [#213](https://github.com/rust-lang/infra-team/pull/213) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 💪 Opened PR [#213](https://github.com/rust-lang/infra-team/pull/213) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
