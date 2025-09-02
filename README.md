@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2362](https://github.com/release-plz/release-plz/pull/2362#issuecomment-3242432265) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2366](https://github.com/release-plz/release-plz/pull/2366#issuecomment-3242416229) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🚀 Published release [v0.5.113](https://github.com/release-plz/action/releases/tag/v0.5.113) in [release-plz/action](https://github.com/release-plz/action)
-4. 🎉 Merged PR [#217](https://github.com/release-plz/action/pull/217) in [release-plz/action](https://github.com/release-plz/action)
-5. 🗣 Commented on [#2307](https://github.com/release-plz/release-plz/issues/2307#issuecomment-3242379901) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. ❗ Opened issue [#195](https://github.com/rust-lang/infra-smoke-tests/issues/195) in [rust-lang/infra-smoke-tests](https://github.com/rust-lang/infra-smoke-tests)
+2. 🎉 Merged PR [#213](https://github.com/rust-lang/infra-team/pull/213) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 💪 Opened PR [#213](https://github.com/rust-lang/infra-team/pull/213) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. ❗ Opened issue [#212](https://github.com/rust-lang/infra-team/issues/212) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 🗣 Commented on [#2366](https://github.com/release-plz/release-plz/pull/2366#issuecomment-3243065730) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
