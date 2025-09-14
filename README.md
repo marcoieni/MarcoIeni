@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2402](https://github.com/release-plz/release-plz/issues/2402) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🎉 Merged PR [#2408](https://github.com/release-plz/release-plz/pull/2408) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 💪 Opened PR [#2408](https://github.com/release-plz/release-plz/pull/2408) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🔒 Closed issue [#2401](https://github.com/release-plz/release-plz/issues/2401) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🎉 Merged PR [#2407](https://github.com/release-plz/release-plz/pull/2407) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#2412](https://github.com/release-plz/release-plz/pull/2412) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. ❗ Opened issue [#2411](https://github.com/release-plz/release-plz/issues/2411) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🚀 Published release [v0.5.117](https://github.com/release-plz/action/releases/tag/v0.5.117) in [release-plz/action](https://github.com/release-plz/action)
+4. 🎉 Merged PR [#222](https://github.com/release-plz/action/pull/222) in [release-plz/action](https://github.com/release-plz/action)
+5. 💪 Opened PR [#222](https://github.com/release-plz/action/pull/222) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
