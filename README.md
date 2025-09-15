@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/rust-lang/thorin/pull/43) in [rust-lang/thorin](https://github.com/rust-lang/thorin)
-2. 💪 Opened PR [#1556](https://github.com/rust-lang/cc-rs/pull/1556) in [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs)
-3. 🗣 Commented on [#2363](https://github.com/release-plz/release-plz/pull/2363#issuecomment-3288924599) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2413](https://github.com/release-plz/release-plz/pull/2413) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#2354](https://github.com/release-plz/release-plz/issues/2354#issuecomment-3288916143) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#2354](https://github.com/release-plz/release-plz/issues/2354#issuecomment-3289603261) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#2417](https://github.com/release-plz/release-plz/pull/2417#issuecomment-3289598645) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 💪 Opened PR [#43](https://github.com/rust-lang/thorin/pull/43) in [rust-lang/thorin](https://github.com/rust-lang/thorin)
+4. 💪 Opened PR [#1556](https://github.com/rust-lang/cc-rs/pull/1556) in [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs)
+5. 🗣 Commented on [#2363](https://github.com/release-plz/release-plz/pull/2363#issuecomment-3288924599) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
