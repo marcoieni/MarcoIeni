@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/zizmorcore/zizmor-action/pull/47#issuecomment-3335691375) in [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action)
-2. 💪 Opened PR [#791](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#47](https://github.com/zizmorcore/zizmor-action/pull/47#issuecomment-3335158258) in [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action)
-4. 💪 Opened PR [#790](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#789](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🔒 Closed issue [#777](https://github.com/rust-lang/simpleinfra/issues/777) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🎉 Merged PR [#787](https://github.com/rust-lang/simpleinfra/pull/787) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 💪 Opened PR [#787](https://github.com/rust-lang/simpleinfra/pull/787) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🎉 Merged PR [#782](https://github.com/rust-lang/simpleinfra/pull/782) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🗣 Commented on [#782](https://github.com/rust-lang/simpleinfra/pull/782#issuecomment-3332474548) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
