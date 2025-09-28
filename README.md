@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2428](https://github.com/release-plz/release-plz/issues/2428#issuecomment-3341948347) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🔒 Closed issue [#122](https://github.com/rust-lang/infra-team/issues/122) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. ❗ Opened issue [#219](https://github.com/rust-lang/infra-team/issues/219) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. ❗ Opened issue [#218](https://github.com/rust-lang/infra-team/issues/218) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. ❌ Closed PR [#779](https://github.com/rust-lang/simpleinfra/pull/779) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. ❗ Opened issue [#1190](https://github.com/zizmorcore/zizmor/issues/1190) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+2. 💪 Opened PR [#2436](https://github.com/release-plz/release-plz/pull/2436) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2428](https://github.com/release-plz/release-plz/issues/2428#issuecomment-3341948347) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🔒 Closed issue [#122](https://github.com/rust-lang/infra-team/issues/122) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. ❗ Opened issue [#219](https://github.com/rust-lang/infra-team/issues/219) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
