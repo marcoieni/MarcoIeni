@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#794](https://github.com/rust-lang/simpleinfra/pull/794) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#794](https://github.com/rust-lang/simpleinfra/pull/794) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#793](https://github.com/rust-lang/simpleinfra/pull/793) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#793](https://github.com/rust-lang/simpleinfra/pull/793#issuecomment-3356433945) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#793](https://github.com/rust-lang/simpleinfra/pull/793) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#1710](https://github.com/rust-lang/blog.rust-lang.org/pull/1710#issuecomment-3360288786) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+2. 🗣 Commented on [#2441](https://github.com/release-plz/release-plz/issues/2441#issuecomment-3360098982) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#794](https://github.com/rust-lang/simpleinfra/pull/794) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 💪 Opened PR [#794](https://github.com/rust-lang/simpleinfra/pull/794) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🎉 Merged PR [#793](https://github.com/rust-lang/simpleinfra/pull/793) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
