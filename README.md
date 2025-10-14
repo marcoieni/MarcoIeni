@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/marcoieni/rust-workspace-example/pull/248) in [marcoieni/rust-workspace-example](https://github.com/marcoieni/rust-workspace-example)
-2. 🗣 Commented on [#2442](https://github.com/release-plz/release-plz/issues/2442#issuecomment-3393720561) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#2446](https://github.com/release-plz/release-plz/issues/2446#issuecomment-3393719859) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2457](https://github.com/release-plz/release-plz/pull/2457) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 💪 Opened PR [#2457](https://github.com/release-plz/release-plz/pull/2457) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#80](https://github.com/rust-lang/crates-io-auth-action/pull/80#issuecomment-3402308125) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+2. 💪 Opened PR [#248](undefined) in [marcoieni/rust-workspace-example](https://github.com/marcoieni/rust-workspace-example)
+3. 🗣 Commented on [#2442](https://github.com/release-plz/release-plz/issues/2442#issuecomment-3393720561) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#2446](https://github.com/release-plz/release-plz/issues/2446#issuecomment-3393719859) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 💪 Opened PR [#2457](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
