@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#74](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-2. 🚀 Published release [v1.0.2](https://github.com/rust-lang/crates-io-auth-action/releases/tag/v1.0.2) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-3. ❗ Opened issue [#87](https://github.com/rust-lang/crates-io-auth-action/issues/87) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-4. 💪 Opened PR [#86](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 💪 Opened PR [#85](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 💪 Opened PR [#6](undefined) in [marco-test-org/rust-ci-workshop24-marco](https://github.com/marco-test-org/rust-ci-workshop24-marco)
+2. 💪 Opened PR [#5](undefined) in [marco-test-org/rust-ci-workshop24-marco](https://github.com/marco-test-org/rust-ci-workshop24-marco)
+3. 💪 Opened PR [#1721](undefined) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
+4. ❌ Closed PR [#74](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. 🚀 Published release [v1.0.2](https://github.com/rust-lang/crates-io-auth-action/releases/tag/v1.0.2) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
 <!--END_SECTION:activity-->
   
 </details>
