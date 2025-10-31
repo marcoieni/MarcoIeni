@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2470](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2.  Labeled issue [#1302](https://github.com/zizmorcore/zizmor/issues/1302) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
-3.  Labeled issue [#1302](https://github.com/zizmorcore/zizmor/issues/1302) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
-4. ❗ Opened issue [#1302](https://github.com/zizmorcore/zizmor/issues/1302) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
-5. 🗣 Commented on [#2046](https://github.com/rust-lang/team/pull/2046#issuecomment-3462713572) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 💪 Opened PR [#2473](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. ❌ Closed PR [#2467](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. ❌ Closed PR [#2468](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🔒 Closed issue [#2460](https://github.com/release-plz/release-plz/issues/2460) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 💪 Opened PR [#2472](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
