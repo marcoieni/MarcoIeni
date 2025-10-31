@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2046](https://github.com/rust-lang/team/pull/2046#issuecomment-3462713572) in [rust-lang/team](https://github.com/rust-lang/team)
-2. ❗ Opened issue [#234](https://github.com/rust-lang/infra-team/issues/234) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 🗣 Commented on [#2044](https://github.com/rust-lang/team/pull/2044#issuecomment-3460547967) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#12219](https://github.com/rust-lang/crates.io/pull/12219#issuecomment-3456279678) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-5. 🗣 Commented on [#148146](https://github.com/rust-lang/rust/pull/148146#issuecomment-3450159474) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 💪 Opened PR [#2470](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2.  Labeled issue [#1302](https://github.com/zizmorcore/zizmor/issues/1302) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+3.  Labeled issue [#1302](https://github.com/zizmorcore/zizmor/issues/1302) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+4. ❗ Opened issue [#1302](https://github.com/zizmorcore/zizmor/issues/1302) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+5. 🗣 Commented on [#2046](https://github.com/rust-lang/team/pull/2046#issuecomment-3462713572) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
