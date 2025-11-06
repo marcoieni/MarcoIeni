@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2481](https://github.com/release-plz/release-plz/issues/2481#issuecomment-3496730375) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2034](https://github.com/rust-lang/team/pull/2034#issuecomment-3496534448) in [rust-lang/team](https://github.com/rust-lang/team)
-3. ❌ Closed PR [#648](undefined) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#353](https://github.com/rust-lang/simpleinfra/issues/353#issuecomment-3496408212) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5.  Assigned issue [#353](https://github.com/rust-lang/simpleinfra/issues/353) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🚀 Published release [v1.0.3](https://github.com/rust-lang/crates-io-auth-action/releases/tag/v1.0.3) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+2. 💪 Opened PR [#100](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+3. 🔒 Closed issue [#87](https://github.com/rust-lang/crates-io-auth-action/issues/87) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+4. 🗣 Commented on [#2481](https://github.com/release-plz/release-plz/issues/2481#issuecomment-3496730375) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2034](https://github.com/rust-lang/team/pull/2034#issuecomment-3496534448) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
