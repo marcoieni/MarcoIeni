@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/rust-lang/ci-mirrors/pull/18#issuecomment-3506564024) in [rust-lang/ci-mirrors](https://github.com/rust-lang/ci-mirrors)
-2. 🗣 Commented on [#148146](https://github.com/rust-lang/rust/pull/148146#issuecomment-3503332927) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#147029](https://github.com/rust-lang/rust/pull/147029#issuecomment-3503205796) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🗣 Commented on [#353](https://github.com/rust-lang/simpleinfra/issues/353#issuecomment-3503067132) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. ❗ Opened issue [#235](https://github.com/rust-lang/infra-team/issues/235) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+1. ❌ Closed PR [#118721](undefined) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. ❌ Closed PR [#109021](undefined) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. ❌ Closed PR [#94560](undefined) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. ❌ Closed PR [#94569](undefined) in [rust-lang/rust](https://github.com/rust-lang/rust)
+5. ❌ Closed PR [#94117](undefined) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
