@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2075](https://github.com/rust-lang/team/pull/2075#issuecomment-3521533463) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#2075](https://github.com/rust-lang/team/pull/2075#issuecomment-3521489208) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#2074](https://github.com/rust-lang/team/pull/2074#issuecomment-3521487374) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#18](https://github.com/rust-lang/ci-mirrors/pull/18#issuecomment-3521447238) in [rust-lang/ci-mirrors](https://github.com/rust-lang/ci-mirrors)
-5. 🗣 Commented on [#18](https://github.com/rust-lang/ci-mirrors/pull/18#issuecomment-3521392336) in [rust-lang/ci-mirrors](https://github.com/rust-lang/ci-mirrors)
+1. 🗣 Commented on [#2074](https://github.com/rust-lang/team/pull/2074#issuecomment-3522677369) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#2488](https://github.com/release-plz/release-plz/issues/2488#issuecomment-3522670238) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2075](https://github.com/rust-lang/team/pull/2075#issuecomment-3521533463) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#2075](https://github.com/rust-lang/team/pull/2075#issuecomment-3521489208) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🗣 Commented on [#2074](https://github.com/rust-lang/team/pull/2074#issuecomment-3521487374) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
