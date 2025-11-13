@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204](https://github.com/rust-lang/infra-team/issues/204#issuecomment-3527998414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 💪 Opened PR [#109](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-3. 🗣 Commented on [#1969](https://github.com/rust-lang/team/pull/1969#issuecomment-3527927661) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#2488](https://github.com/release-plz/release-plz/issues/2488#issuecomment-3526555229) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 💪 Opened PR [#805](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#2489](https://github.com/release-plz/release-plz/pull/2489#issuecomment-3528728562) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 💪 Opened PR [#807](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🗣 Commented on [#204](https://github.com/rust-lang/infra-team/issues/204#issuecomment-3527998414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 💪 Opened PR [#109](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. 🗣 Commented on [#1969](https://github.com/rust-lang/team/pull/1969#issuecomment-3527927661) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
