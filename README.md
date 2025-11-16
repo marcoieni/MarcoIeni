@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1144](https://github.com/release-plz/release-plz/issues/1144#issuecomment-3533009353) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2489](https://github.com/release-plz/release-plz/pull/2489#issuecomment-3528728562) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 💪 Opened PR [#807](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#204](https://github.com/rust-lang/infra-team/issues/204#issuecomment-3527998414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. 💪 Opened PR [#109](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 🗣 Commented on [#1144](https://github.com/release-plz/release-plz/issues/1144#issuecomment-3537663564) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#1144](https://github.com/release-plz/release-plz/issues/1144#issuecomment-3533009353) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2489](https://github.com/release-plz/release-plz/pull/2489#issuecomment-3528728562) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 💪 Opened PR [#807](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🗣 Commented on [#204](https://github.com/rust-lang/infra-team/issues/204#issuecomment-3527998414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
