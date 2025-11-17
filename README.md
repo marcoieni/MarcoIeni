@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#810](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#809](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#1144](https://github.com/release-plz/release-plz/issues/1144#issuecomment-3537663564) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🗣 Commented on [#1144](https://github.com/release-plz/release-plz/issues/1144#issuecomment-3533009353) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🗣 Commented on [#2489](https://github.com/release-plz/release-plz/pull/2489#issuecomment-3528728562) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#2084](https://github.com/rust-lang/team/pull/2084#issuecomment-3542557309) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 💪 Opened PR [#7277](undefined) in [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)
+3. ❌ Closed PR [#1136](undefined) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+4. ❌ Closed PR [#1126](undefined) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
+5. ❌ Closed PR [#1128](undefined) in [rust-lang/stdarch](https://github.com/rust-lang/stdarch)
 <!--END_SECTION:activity-->
   
 </details>
