@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2499](https://github.com/release-plz/release-plz/pull/2499#issuecomment-3562513545) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#1887](https://github.com/release-plz/release-plz/issues/1887#issuecomment-3562342992) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#817](https://github.com/rust-lang/simpleinfra/pull/817#issuecomment-3562341588) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#111](https://github.com/rust-lang/crates-io-auth-action/issues/111#issuecomment-3562191062) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 🗣 Commented on [#818](https://github.com/rust-lang/simpleinfra/pull/818#issuecomment-3562159519) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#1909](https://github.com/release-plz/release-plz/issues/1909#issuecomment-3562912061) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#2334](https://github.com/release-plz/release-plz/issues/2334#issuecomment-3562903544) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🗣 Commented on [#2499](https://github.com/release-plz/release-plz/pull/2499#issuecomment-3562876455) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🗣 Commented on [#2499](https://github.com/release-plz/release-plz/pull/2499#issuecomment-3562513545) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#1887](https://github.com/release-plz/release-plz/issues/1887#issuecomment-3562342992) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
