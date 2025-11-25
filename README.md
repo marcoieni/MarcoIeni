@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12384](undefined) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-2. 💪 Opened PR [#823](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#821](https://github.com/rust-lang/simpleinfra/pull/821#issuecomment-3570543857) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#821](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#2102](https://github.com/rust-lang/team/pull/2102#issuecomment-3570434826) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 💪 Opened PR [#12387](undefined) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+2. ❗ Opened issue [#231](https://github.com/release-plz/action/issues/231) in [release-plz/action](https://github.com/release-plz/action)
+3. 🚀 Published release [v0.5.119](https://github.com/release-plz/action/releases/tag/v0.5.119) in [release-plz/action](https://github.com/release-plz/action)
+4. 💪 Opened PR [#230](undefined) in [release-plz/action](https://github.com/release-plz/action)
+5. 💪 Opened PR [#229](undefined) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
