@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12387](undefined) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-2. ❗ Opened issue [#231](https://github.com/release-plz/action/issues/231) in [release-plz/action](https://github.com/release-plz/action)
-3. 🚀 Published release [v0.5.119](https://github.com/release-plz/action/releases/tag/v0.5.119) in [release-plz/action](https://github.com/release-plz/action)
-4. 💪 Opened PR [#230](undefined) in [release-plz/action](https://github.com/release-plz/action)
-5. 💪 Opened PR [#229](undefined) in [release-plz/action](https://github.com/release-plz/action)
+1. 🗣 Commented on [#2501](https://github.com/release-plz/release-plz/issues/2501#issuecomment-3574034266) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 💪 Opened PR [#12387](undefined) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+3. ❗ Opened issue [#231](https://github.com/release-plz/action/issues/231) in [release-plz/action](https://github.com/release-plz/action)
+4. 🚀 Published release [v0.5.119](https://github.com/release-plz/action/releases/tag/v0.5.119) in [release-plz/action](https://github.com/release-plz/action)
+5. 💪 Opened PR [#230](undefined) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
