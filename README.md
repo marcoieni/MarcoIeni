@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2512](https://github.com/release-plz/release-plz/pull/2512#issuecomment-3587213455) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#830](https://github.com/rust-lang/simpleinfra/pull/830#issuecomment-3587210777) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#830](https://github.com/rust-lang/simpleinfra/pull/830#issuecomment-3586890520) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#2127](https://github.com/rust-lang/team/pull/2127#issuecomment-3586855681) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#233](https://github.com/rust-lang/infra-team/pull/233#issuecomment-3586534667) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+1. 🗣 Commented on [#44](https://github.com/rust-lang/keyword-generics-initiative/issues/44#issuecomment-3589470538) in [rust-lang/keyword-generics-initiative](https://github.com/rust-lang/keyword-generics-initiative)
+2. 🗣 Commented on [#2127](https://github.com/rust-lang/team/pull/2127#issuecomment-3589412422) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🔒 Closed issue [#1918](https://github.com/rust-lang/team/issues/1918) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#1918](https://github.com/rust-lang/team/issues/1918#issuecomment-3589386809) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🗣 Commented on [#2129](https://github.com/rust-lang/team/pull/2129#issuecomment-3589227957) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
