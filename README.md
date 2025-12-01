@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1351](https://github.com/rust-lang/team/pull/1351#issuecomment-3595099290) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#830](https://github.com/rust-lang/simpleinfra/pull/830#issuecomment-3595048079) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🗣 Commented on [#711](https://github.com/rust-lang/simpleinfra/pull/711#issuecomment-3592439031) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#2132](https://github.com/rust-lang/team/issues/2132#issuecomment-3591881585) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#1863](https://github.com/rust-lang/team/issues/1863#issuecomment-3591471692) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 💪 Opened PR [#831](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🗣 Commented on [#148146](https://github.com/rust-lang/rust/pull/148146#issuecomment-3595157893) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#148146](https://github.com/rust-lang/rust/pull/148146#issuecomment-3595134617) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🗣 Commented on [#1351](https://github.com/rust-lang/team/pull/1351#issuecomment-3595099290) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🗣 Commented on [#830](https://github.com/rust-lang/simpleinfra/pull/830#issuecomment-3595048079) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
