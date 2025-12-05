@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2153](undefined) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#2154](https://github.com/rust-lang/team/pull/2154#issuecomment-3616552561) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 💪 Opened PR [#2153](undefined) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#842](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. ❌ Merged PR [#841](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#2148](https://github.com/rust-lang/team/pull/2148#issuecomment-3617453527) in [rust-lang/team](https://github.com/rust-lang/team)
+2. ❌ Closed PR [#2148](undefined) in [rust-lang/team](https://github.com/rust-lang/team)
+3. ❌ Merged PR [#843](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 💪 Opened PR [#843](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. ❌ Merged PR [#842](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
