@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#141](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-2. 💪 Opened PR [#141](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-3. 🗣 Commented on [#2142](https://github.com/rust-lang/team/pull/2142#issuecomment-3632965937) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#846](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#149806](https://github.com/rust-lang/rust/pull/149806#issuecomment-3632214920) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 💪 Opened PR [#850](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. ❌ Merged PR [#849](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 💪 Opened PR [#849](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. ❌ Merged PR [#848](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 💪 Opened PR [#848](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
