@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#846](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. ❌ Closed PR [#2170](undefined) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#844](https://github.com/rust-lang/simpleinfra/pull/844#issuecomment-3641005347) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#844](https://github.com/rust-lang/simpleinfra/pull/844#issuecomment-3640916376) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#851](https://github.com/rust-lang/simpleinfra/pull/851#issuecomment-3640811935) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🗣 Commented on [#2142](https://github.com/rust-lang/team/pull/2142#issuecomment-3646172864) in [rust-lang/team](https://github.com/rust-lang/team)
+2. ❌ Merged PR [#144](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+3. 💪 Opened PR [#144](undefined) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+4. ❌ Merged PR [#852](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🗣 Commented on [#852](https://github.com/rust-lang/simpleinfra/pull/852#issuecomment-3646104947) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
