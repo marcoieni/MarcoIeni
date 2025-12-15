@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#856](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🔒 Closed issue [#12482](https://github.com/rust-lang/crates.io/issues/12482) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-3. 💪 Opened PR [#856](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. ❌ Merged PR [#2531](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. ❌ Merged PR [#2530](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#2185](undefined) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#855](https://github.com/rust-lang/simpleinfra/pull/855#issuecomment-3654772778) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. ❌ Merged PR [#858](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🗣 Commented on [#858](https://github.com/rust-lang/simpleinfra/pull/858#issuecomment-3654719238) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 💪 Opened PR [#858](undefined) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
