@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2142](https://github.com/rust-lang/team/pull/2142#issuecomment-3657002577) in [rust-lang/team](https://github.com/rust-lang/team)
-2. ❌ Merged PR [#2537](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 💪 Opened PR [#2537](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🗣 Commented on [#2142](https://github.com/rust-lang/team/pull/2142#issuecomment-3656408316) in [rust-lang/team](https://github.com/rust-lang/team)
-5. ❌ Closed PR [#2185](undefined) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#2140](https://github.com/rust-lang/team/issues/2140#issuecomment-3657690998) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#2168](https://github.com/rust-lang/team/pull/2168#issuecomment-3657689290) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🔒 Closed issue [#2132](https://github.com/rust-lang/team/issues/2132) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#2142](https://github.com/rust-lang/team/pull/2142#issuecomment-3657002577) in [rust-lang/team](https://github.com/rust-lang/team)
+5. ❌ Merged PR [#2537](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
