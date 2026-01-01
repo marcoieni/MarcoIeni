@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#988](undefined) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+1. 🎉 Merged PR [#988](https://github.com/rust-lang/rust-forge/pull/988) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
 2. 🗣 Commented on [#2512](https://github.com/release-plz/release-plz/pull/2512#issuecomment-3694824839) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 3. 🔒 Closed issue [#1317](https://github.com/release-plz/release-plz/issues/1317) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 4. 🗣 Commented on [#1317](https://github.com/release-plz/release-plz/issues/1317#issuecomment-3694784156) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. ❌ Merged PR [#2552](undefined) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🎉 Merged PR [#2552](https://github.com/release-plz/release-plz/pull/2552) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
