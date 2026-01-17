@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#144](https://github.com/rust-lang/bors/pull/144) in [rust-lang/bors](https://github.com/rust-lang/bors)
-2. 🗣 Commented on [#903](https://github.com/rust-lang/simpleinfra/pull/903#issuecomment-3760893986) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 💪 Opened PR [#903](https://github.com/rust-lang/simpleinfra/pull/903) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🎉 Merged PR [#900](https://github.com/rust-lang/simpleinfra/pull/900) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🎉 Merged PR [#901](https://github.com/rust-lang/simpleinfra/pull/901) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🔒 Closed issue [#1144](https://github.com/release-plz/release-plz/issues/1144) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#2348](https://github.com/ratatui/ratatui/pull/2348#issuecomment-3764158912) in [ratatui/ratatui](https://github.com/ratatui/ratatui)
+3. 🎉 Merged PR [#144](https://github.com/rust-lang/bors/pull/144) in [rust-lang/bors](https://github.com/rust-lang/bors)
+4. 🗣 Commented on [#903](https://github.com/rust-lang/simpleinfra/pull/903#issuecomment-3760893986) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 💪 Opened PR [#903](https://github.com/rust-lang/simpleinfra/pull/903) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
