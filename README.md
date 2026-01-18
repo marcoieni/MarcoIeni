@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1144](https://github.com/release-plz/release-plz/issues/1144) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2348](https://github.com/ratatui/ratatui/pull/2348#issuecomment-3764158912) in [ratatui/ratatui](https://github.com/ratatui/ratatui)
-3. 🎉 Merged PR [#144](https://github.com/rust-lang/bors/pull/144) in [rust-lang/bors](https://github.com/rust-lang/bors)
-4. 🗣 Commented on [#903](https://github.com/rust-lang/simpleinfra/pull/903#issuecomment-3760893986) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 💪 Opened PR [#903](https://github.com/rust-lang/simpleinfra/pull/903) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🚀 Published release [v0.5.121](https://github.com/release-plz/action/releases/tag/v0.5.121) in [release-plz/action](https://github.com/release-plz/action)
+2. ❗ Opened issue [#236](https://github.com/release-plz/action/issues/236) in [release-plz/action](https://github.com/release-plz/action)
+3. 🎉 Merged PR [#235](https://github.com/release-plz/action/pull/235) in [release-plz/action](https://github.com/release-plz/action)
+4. 🗣 Commented on [#223](https://github.com/release-plz/action/pull/223#issuecomment-3764472895) in [release-plz/action](https://github.com/release-plz/action)
+5. ❌ Closed PR [#223](https://github.com/release-plz/action/pull/223) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
