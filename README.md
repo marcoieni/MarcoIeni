@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.121](https://github.com/release-plz/action/releases/tag/v0.5.121) in [release-plz/action](https://github.com/release-plz/action)
-2. ❗ Opened issue [#236](https://github.com/release-plz/action/issues/236) in [release-plz/action](https://github.com/release-plz/action)
-3. 🎉 Merged PR [#235](https://github.com/release-plz/action/pull/235) in [release-plz/action](https://github.com/release-plz/action)
-4. 🗣 Commented on [#223](https://github.com/release-plz/action/pull/223#issuecomment-3764472895) in [release-plz/action](https://github.com/release-plz/action)
-5. ❌ Closed PR [#223](https://github.com/release-plz/action/pull/223) in [release-plz/action](https://github.com/release-plz/action)
+1. 🎉 Merged PR [#5](https://github.com/marcoieni/gigi/pull/5) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+2. 💪 Opened PR [#5](https://github.com/marcoieni/gigi/pull/5) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+3. 🎉 Merged PR [#4](https://github.com/marcoieni/gigi/pull/4) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+4. 💪 Opened PR [#4](https://github.com/marcoieni/gigi/pull/4) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+5. 🎉 Merged PR [#3](https://github.com/marcoieni/gigi/pull/3) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
 <!--END_SECTION:activity-->
   
 </details>
