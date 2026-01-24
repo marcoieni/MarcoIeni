@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.122](https://github.com/release-plz/action/releases/tag/v0.5.122) in [release-plz/action](https://github.com/release-plz/action)
-2. 🎉 Merged PR [#244](https://github.com/release-plz/action/pull/244) in [release-plz/action](https://github.com/release-plz/action)
-3. 💪 Opened PR [#244](https://github.com/release-plz/action/pull/244) in [release-plz/action](https://github.com/release-plz/action)
-4. 🎉 Merged PR [#242](https://github.com/release-plz/action/pull/242) in [release-plz/action](https://github.com/release-plz/action)
-5. 💪 Opened PR [#242](https://github.com/release-plz/action/pull/242) in [release-plz/action](https://github.com/release-plz/action)
+1. 🚀 Published release [v0.5.124](https://github.com/release-plz/action/releases/tag/v0.5.124) in [release-plz/action](https://github.com/release-plz/action)
+2. 🎉 Merged PR [#252](https://github.com/release-plz/action/pull/252) in [release-plz/action](https://github.com/release-plz/action)
+3. 💪 Opened PR [#252](https://github.com/release-plz/action/pull/252) in [release-plz/action](https://github.com/release-plz/action)
+4. 🎉 Merged PR [#251](https://github.com/release-plz/action/pull/251) in [release-plz/action](https://github.com/release-plz/action)
+5. 🎉 Merged PR [#2451](https://github.com/cargo-bins/cargo-binstall/pull/2451) in [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall)
 <!--END_SECTION:activity-->
   
 </details>
