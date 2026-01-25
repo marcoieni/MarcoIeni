@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1561](https://github.com/obi1kenobi/cargo-semver-checks/pull/1561) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-2. ❗ Opened issue [#253](https://github.com/release-plz/action/issues/253) in [release-plz/action](https://github.com/release-plz/action)
-3. 🎉 Merged PR [#2618](https://github.com/release-plz/release-plz/pull/2618) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. ❌ Closed PR [#2609](https://github.com/release-plz/release-plz/pull/2609) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 💪 Opened PR [#2618](https://github.com/release-plz/release-plz/pull/2618) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#2595](https://github.com/release-plz/release-plz/issues/2595#issuecomment-3796123276) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#2578](https://github.com/release-plz/release-plz/issues/2578#issuecomment-3796121063) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#1561](https://github.com/obi1kenobi/cargo-semver-checks/pull/1561) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+4. ❗ Opened issue [#253](https://github.com/release-plz/action/issues/253) in [release-plz/action](https://github.com/release-plz/action)
+5. 🎉 Merged PR [#2618](https://github.com/release-plz/release-plz/pull/2618) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
