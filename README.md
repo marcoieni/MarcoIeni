@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2595](https://github.com/release-plz/release-plz/issues/2595#issuecomment-3796617588) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#2595](https://github.com/release-plz/release-plz/issues/2595#issuecomment-3796123276) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#2578](https://github.com/release-plz/release-plz/issues/2578#issuecomment-3796121063) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#1561](https://github.com/obi1kenobi/cargo-semver-checks/pull/1561) in [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-5. ❗ Opened issue [#253](https://github.com/release-plz/action/issues/253) in [release-plz/action](https://github.com/release-plz/action)
+1. 💪 Opened PR [#925](https://github.com/rust-lang/simpleinfra/pull/925) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🎉 Merged PR [#924](https://github.com/rust-lang/simpleinfra/pull/924) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 💪 Opened PR [#924](https://github.com/rust-lang/simpleinfra/pull/924) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🗣 Commented on [#2595](https://github.com/release-plz/release-plz/issues/2595#issuecomment-3796617588) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2595](https://github.com/release-plz/release-plz/issues/2595#issuecomment-3796123276) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
