@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2638](https://github.com/release-plz/release-plz/pull/2638#issuecomment-3845759219) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🔓 Reopened issue [#2595](https://github.com/release-plz/release-plz/issues/2595) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-3. 🗣 Commented on [#2595](https://github.com/release-plz/release-plz/issues/2595#issuecomment-3844301035) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🗣 Commented on [#2334](https://github.com/release-plz/release-plz/issues/2334#issuecomment-3844298581) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 🚀 Published release [v0.5.125](https://github.com/release-plz/action/releases/tag/v0.5.125) in [release-plz/action](https://github.com/release-plz/action)
+1. 🎉 Merged PR [#957](https://github.com/rust-lang/simpleinfra/pull/957) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 🗣 Commented on [#72](https://github.com/IBM/actionspz/issues/72#issuecomment-3846462973) in [IBM/actionspz](https://github.com/IBM/actionspz)
+3. 🗣 Commented on [#24](https://github.com/IBM/actionspz/issues/24#issuecomment-3846448222) in [IBM/actionspz](https://github.com/IBM/actionspz)
+4. 🗣 Commented on [#2638](https://github.com/release-plz/release-plz/pull/2638#issuecomment-3846362315) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+5. 🗣 Commented on [#2638](https://github.com/release-plz/release-plz/pull/2638#issuecomment-3846362235) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
