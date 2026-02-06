@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#260](https://github.com/release-plz/action/pull/260) in [release-plz/action](https://github.com/release-plz/action)
-2. 💪 Opened PR [#260](https://github.com/release-plz/action/pull/260) in [release-plz/action](https://github.com/release-plz/action)
-3. 💪 Opened PR [#2650](https://github.com/release-plz/release-plz/pull/2650) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-4. 🎉 Merged PR [#2649](https://github.com/release-plz/release-plz/pull/2649) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-5. 💪 Opened PR [#2649](https://github.com/release-plz/release-plz/pull/2649) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 🗣 Commented on [#44](https://github.com/rust-lang/effects-initiative/issues/44#issuecomment-3860010972) in [rust-lang/effects-initiative](https://github.com/rust-lang/effects-initiative)
+2. 🗣 Commented on [#1351](https://github.com/rust-lang/team/pull/1351#issuecomment-3860008939) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🗣 Commented on [#1351](https://github.com/rust-lang/team/pull/1351#issuecomment-3859949849) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🚀 Published release [v0.5.126](https://github.com/release-plz/action/releases/tag/v0.5.126) in [release-plz/action](https://github.com/release-plz/action)
+5. 🎉 Merged PR [#260](https://github.com/release-plz/action/pull/260) in [release-plz/action](https://github.com/release-plz/action)
 <!--END_SECTION:activity-->
   
 </details>
