@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#998](https://github.com/rust-lang/simpleinfra/pull/998) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🎉 Merged PR [#999](https://github.com/rust-lang/simpleinfra/pull/999) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 💪 Opened PR [#999](https://github.com/rust-lang/simpleinfra/pull/999) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 💪 Opened PR [#998](https://github.com/rust-lang/simpleinfra/pull/998) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-5. 🗣 Commented on [#152769](https://github.com/rust-lang/rust/pull/152769#issuecomment-3934615954) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🎉 Merged PR [#1001](https://github.com/rust-lang/simpleinfra/pull/1001) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 💪 Opened PR [#1001](https://github.com/rust-lang/simpleinfra/pull/1001) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🔓 Reopened issue [#13013](https://github.com/rust-lang/crates.io/issues/13013) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+4. 🎉 Merged PR [#1000](https://github.com/rust-lang/simpleinfra/pull/1000) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🔒 Closed issue [#13013](https://github.com/rust-lang/crates.io/issues/13013) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
 <!--END_SECTION:activity-->
   
 </details>
