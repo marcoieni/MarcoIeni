@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1002](https://github.com/rust-lang/simpleinfra/pull/1002) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 🎉 Merged PR [#1003](https://github.com/rust-lang/simpleinfra/pull/1003) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 💪 Opened PR [#1003](https://github.com/rust-lang/simpleinfra/pull/1003) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#148146](https://github.com/rust-lang/rust/pull/148146#issuecomment-3959474616) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 🗣 Commented on [#2691](https://github.com/release-plz/release-plz/issues/2691#issuecomment-3959460261) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#10](https://github.com/marcoieni/infratk/pull/10) in [marcoieni/infratk](https://github.com/marcoieni/infratk)
+2. 🎉 Merged PR [#9](https://github.com/marcoieni/infratk/pull/9) in [marcoieni/infratk](https://github.com/marcoieni/infratk)
+3. 💪 Opened PR [#9](https://github.com/marcoieni/infratk/pull/9) in [marcoieni/infratk](https://github.com/marcoieni/infratk)
+4. 🎉 Merged PR [#1004](https://github.com/rust-lang/simpleinfra/pull/1004) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🎉 Merged PR [#8](https://github.com/marcoieni/infratk/pull/8) in [marcoieni/infratk](https://github.com/marcoieni/infratk)
 <!--END_SECTION:activity-->
   
 </details>
