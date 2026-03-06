@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2297](https://github.com/rust-lang/team/pull/2297) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 💪 Opened PR [#10](https://github.com/marcoieni/gigi/pull/10) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-3. 💪 Opened PR [#1011](https://github.com/rust-lang/simpleinfra/pull/1011) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🎉 Merged PR [#9](https://github.com/marcoieni/gigi/pull/9) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-5. 💪 Opened PR [#2297](https://github.com/rust-lang/team/pull/2297) in [rust-lang/team](https://github.com/rust-lang/team)
+1. ℹ️ Reopened PR [#244](https://github.com/rust-lang/infra-smoke-tests/pull/244) in [rust-lang/infra-smoke-tests](https://github.com/rust-lang/infra-smoke-tests)
+2. ❌ Closed PR [#244](https://github.com/rust-lang/infra-smoke-tests/pull/244) in [rust-lang/infra-smoke-tests](https://github.com/rust-lang/infra-smoke-tests)
+3. 🎉 Merged PR [#2296](https://github.com/rust-lang/team/pull/2296) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#1734](https://github.com/rust-lang/team/issues/1734#issuecomment-4010906428) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🔒 Closed issue [#1734](https://github.com/rust-lang/team/issues/1734) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
