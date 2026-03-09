@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/marcoieni/gigi/pull/10) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-2. 🗣 Commented on [#153527](https://github.com/rust-lang/rust/pull/153527#issuecomment-4018789486) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🚀 Published release [v0.5.128](https://github.com/release-plz/action/releases/tag/v0.5.128) in [release-plz/action](https://github.com/release-plz/action)
-4. 🎉 Merged PR [#300](https://github.com/release-plz/action/pull/300) in [release-plz/action](https://github.com/release-plz/action)
-5. 💪 Opened PR [#300](https://github.com/release-plz/action/pull/300) in [release-plz/action](https://github.com/release-plz/action)
+1. 🎉 Merged PR [#1017](https://github.com/rust-lang/simpleinfra/pull/1017) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 💪 Opened PR [#1017](https://github.com/rust-lang/simpleinfra/pull/1017) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 💪 Opened PR [#1016](https://github.com/rust-lang/simpleinfra/pull/1016) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🎉 Merged PR [#11](https://github.com/marcoieni/gigi/pull/11) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+5. 🗣 Commented on [#153527](https://github.com/rust-lang/rust/pull/153527#issuecomment-4022252237) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
