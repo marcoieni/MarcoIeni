@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/marcoieni/gigi/pull/12) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-2. ❌ Closed PR [#13](https://github.com/marcoieni/gigi/pull/13) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-3. 💪 Opened PR [#14](https://github.com/marcoieni/gigi/pull/14) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-4. 💪 Opened PR [#13](https://github.com/marcoieni/gigi/pull/13) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-5. 💪 Opened PR [#12](https://github.com/marcoieni/gigi/pull/12) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+1. 🗣 Commented on [#2304](https://github.com/rust-lang/team/pull/2304#issuecomment-4027591445) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 💪 Opened PR [#2304](https://github.com/rust-lang/team/pull/2304) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🎉 Merged PR [#2728](https://github.com/release-plz/release-plz/pull/2728) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+4. 🎉 Merged PR [#14](https://github.com/marcoieni/gigi/pull/14) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+5. 💪 Opened PR [#2728](https://github.com/release-plz/release-plz/pull/2728) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
