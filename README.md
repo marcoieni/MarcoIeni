@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/marcoieni/gigi/pull/16) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-2. 💪 Opened PR [#16](https://github.com/marcoieni/gigi/pull/16) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-3. 🗣 Commented on [#1019](https://github.com/rust-lang/simpleinfra/pull/1019#issuecomment-4034878511) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🗣 Commented on [#153533](https://github.com/rust-lang/rust/pull/153533#issuecomment-4033492108) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 💪 Opened PR [#1019](https://github.com/rust-lang/simpleinfra/pull/1019) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 🔓 Reopened issue [#2198](https://github.com/rust-lang/team/issues/2198) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#1016](https://github.com/rust-lang/simpleinfra/pull/1016#issuecomment-4038712691) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🎉 Merged PR [#17](https://github.com/marcoieni/gigi/pull/17) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+4. 🔒 Closed issue [#2198](https://github.com/rust-lang/team/issues/2198) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🎉 Merged PR [#2304](https://github.com/rust-lang/team/pull/2304) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
