@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153531](https://github.com/rust-lang/rust/pull/153531#issuecomment-4056046323) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🎉 Merged PR [#19](https://github.com/marcoieni/gigi/pull/19) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-3. 🎉 Merged PR [#2319](https://github.com/rust-lang/team/pull/2319) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#2319](https://github.com/rust-lang/team/pull/2319#issuecomment-4055724940) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#13172](https://github.com/rust-lang/crates.io/issues/13172#issuecomment-4055666343) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+1. 🗣 Commented on [#153372](https://github.com/rust-lang/rust/pull/153372#issuecomment-4067149454) in [rust-lang/rust](https://github.com/rust-lang/rust)
+2. 🎉 Merged PR [#20](https://github.com/marcoieni/gigi/pull/20) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+3. 💪 Opened PR [#20](https://github.com/marcoieni/gigi/pull/20) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+4. 💪 Opened PR [#2322](https://github.com/rust-lang/team/pull/2322) in [rust-lang/team](https://github.com/rust-lang/team)
+5. ❗ Opened issue [#1209](https://github.com/fastly/terraform-provider-fastly/issues/1209) in [fastly/terraform-provider-fastly](https://github.com/fastly/terraform-provider-fastly)
 <!--END_SECTION:activity-->
   
 </details>
