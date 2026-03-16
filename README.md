@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1024](https://github.com/rust-lang/simpleinfra/pull/1024) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#2325](https://github.com/rust-lang/team/pull/2325) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 💪 Opened PR [#1024](https://github.com/rust-lang/simpleinfra/pull/1024) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-4. 🎉 Merged PR [#2323](https://github.com/rust-lang/team/pull/2323) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#2323](https://github.com/rust-lang/team/pull/2323#issuecomment-4068589396) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#2325](https://github.com/rust-lang/team/pull/2325) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 💪 Opened PR [#2327](https://github.com/rust-lang/team/pull/2327) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 💪 Opened PR [#2326](https://github.com/rust-lang/team/pull/2326) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 💪 Opened PR [#1112](https://github.com/rust-lang/compiler-builtins/pull/1112) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
+5. 🎉 Merged PR [#1024](https://github.com/rust-lang/simpleinfra/pull/1024) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
 <!--END_SECTION:activity-->
   
 </details>
