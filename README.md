@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2325](https://github.com/rust-lang/team/pull/2325) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 💪 Opened PR [#2327](https://github.com/rust-lang/team/pull/2327) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 💪 Opened PR [#2326](https://github.com/rust-lang/team/pull/2326) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#1112](https://github.com/rust-lang/compiler-builtins/pull/1112) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
-5. 🎉 Merged PR [#1024](https://github.com/rust-lang/simpleinfra/pull/1024) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 💪 Opened PR [#2331](https://github.com/rust-lang/team/pull/2331) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🎉 Merged PR [#2750](https://github.com/release-plz/release-plz/pull/2750) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. 🎉 Merged PR [#2329](https://github.com/rust-lang/team/pull/2329) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🎉 Merged PR [#205](https://github.com/rust-lang/crates-io-auth-action/pull/205) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. 💪 Opened PR [#2750](https://github.com/release-plz/release-plz/pull/2750) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
 <!--END_SECTION:activity-->
   
 </details>
