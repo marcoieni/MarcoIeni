@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2331](https://github.com/rust-lang/team/pull/2331) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#1112](https://github.com/rust-lang/compiler-builtins/pull/1112#issuecomment-4075199693) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
-3. 🎉 Merged PR [#2330](https://github.com/rust-lang/team/pull/2330) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#2331](https://github.com/rust-lang/team/pull/2331) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🎉 Merged PR [#2750](https://github.com/release-plz/release-plz/pull/2750) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+1. 💪 Opened PR [#23](https://github.com/marcoieni/gigi/pull/23) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+2. 🎉 Merged PR [#22](https://github.com/marcoieni/gigi/pull/22) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+3. ❌ Closed PR [#21](https://github.com/marcoieni/gigi/pull/21) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+4. 🗣 Commented on [#2332](https://github.com/rust-lang/team/pull/2332#issuecomment-4076989871) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 💪 Opened PR [#21](https://github.com/marcoieni/gigi/pull/21) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
 <!--END_SECTION:activity-->
   
 </details>
