@@ -129,11 +129,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/marcoieni/gigi/pull/23) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-2. 🎉 Merged PR [#22](https://github.com/marcoieni/gigi/pull/22) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-3. ❌ Closed PR [#21](https://github.com/marcoieni/gigi/pull/21) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-4. 🗣 Commented on [#2332](https://github.com/rust-lang/team/pull/2332#issuecomment-4076989871) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 💪 Opened PR [#21](https://github.com/marcoieni/gigi/pull/21) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+1. 🎉 Merged PR [#24](https://github.com/marcoieni/gigi/pull/24) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+2. 💪 Opened PR [#24](https://github.com/marcoieni/gigi/pull/24) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+3. 🎉 Merged PR [#23](https://github.com/marcoieni/gigi/pull/23) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+4. 💪 Opened PR [#23](https://github.com/marcoieni/gigi/pull/23) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+5. 🎉 Merged PR [#22](https://github.com/marcoieni/gigi/pull/22) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
 <!--END_SECTION:activity-->
   
 </details>
