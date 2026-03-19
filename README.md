@@ -64,21 +64,25 @@ Here are some ideas to get you started:
 
 - **[release-plz/release-plz](https://github.com/release-plz/release-plz)** Release Rust crates from CI
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/release-plz/release-plz?style=social">
-- **[MarcoIeni/intellimacs](https://github.com/MarcoIeni/intellimacs)** Spacemacs' like key bindings for IntelliJ platform.
+- **[marcoieni/intellimacs](https://github.com/MarcoIeni/intellimacs)** Spacemacs' like key bindings for IntelliJ platform.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/intellimacs?style=social">
 - **[rust-github/template](https://github.com/rust-github/template)** Template for a generic rust project hosted on GitHub.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rust-github/template?style=social">
-- **[MarcoIeni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)** Write a Rust HTTP API with TDD.
+- **[marcoieni/rust-api-workshop](https://github.com/MarcoIeni/rust-api-workshop)** Write a Rust HTTP API with TDD.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/rust-api-workshop?style=social">
-- **[MarcoIeni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)** Spacemacs' like key bindings for Eclipse.
+- **[marcoieni/spaceclipse](https://github.com/MarcoIeni/spaceclipse)** Spacemacs' like key bindings for Eclipse.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/spaceclipse?style=social">
-- **[MarcoIeni/glimpse](https://github.com/MarcoIeni/glimpse)** Mnemonic key bindings for VSCode.
+- **[marcoieni/glimpse](https://github.com/MarcoIeni/glimpse)** Mnemonic key bindings for VSCode.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/glimpse?style=social">
 - **[doc-org/doc-org](https://github.com/doc-org/doc-org)** org-mode + latex + docker = pdf.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/doc-org/doc-org?style=social">
-- **[MarcoIeni/git-config](https://github.com/MarcoIeni/git-config)** GitHub action to configure the git user from a GitHub token.
+- **[marcoieni/git-config](https://github.com/MarcoIeni/git-config)** GitHub action to configure the git user from a GitHub token.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/git-config?style=social">
-- **[MarcoIeni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)** GitHub action to automatically format Rust code and fix clippy lints.
+- **[marcoieni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)** GitHub action to automatically format Rust code and fix clippy lints.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/cargo-assist?style=social">
+- **[marcoieni/multicheese](https://github.com/marcoieni/multicheese)** Take screenshots of multiple URLs.
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/cargo-assist?style=social">
+- **[marcoieni/gigi](https://github.com/marcoieni/gigi)** CLI utils and dashboard for GitHub.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/cargo-assist?style=social">
 
 ---
