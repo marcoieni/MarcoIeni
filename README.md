@@ -81,9 +81,9 @@ Here are some ideas to get you started:
 - **[marcoieni/cargo-assist](https://github.com/MarcoIeni/cargo-assist)** GitHub action to automatically format Rust code and fix clippy lints.
   <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/cargo-assist?style=social">
 - **[marcoieni/multicheese](https://github.com/marcoieni/multicheese)** Take screenshots of multiple URLs.
-  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/cargo-assist?style=social">
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/multicheese?style=social">
 - **[marcoieni/gigi](https://github.com/marcoieni/gigi)** CLI utils and dashboard for GitHub.
-  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/cargo-assist?style=social">
+  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MarcoIeni/gigi?style=social">
 
 ---
 
