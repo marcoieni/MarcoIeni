@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/marcoieni/multicheese/pull/1) in [marcoieni/multicheese](https://github.com/marcoieni/multicheese)
-2. 🔒 Closed issue [#2196](https://github.com/rust-lang/team/issues/2196) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#2336](https://github.com/rust-lang/team/pull/2336) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#2336](https://github.com/rust-lang/team/pull/2336) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🎉 Merged PR [#2335](https://github.com/rust-lang/team/pull/2335) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#334](https://github.com/rust-lang/rfcbot-rs/pull/334) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
+2. 💪 Opened PR [#2338](https://github.com/rust-lang/team/pull/2338) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🎉 Merged PR [#2](https://github.com/marcoieni/multicheese/pull/2) in [marcoieni/multicheese](https://github.com/marcoieni/multicheese)
+4. 💪 Opened PR [#2](https://github.com/marcoieni/multicheese/pull/2) in [marcoieni/multicheese](https://github.com/marcoieni/multicheese)
+5. 🗣 Commented on [#2327](https://github.com/rust-lang/team/pull/2327#issuecomment-4093379869) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
