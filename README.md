@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#251](https://github.com/rust-lang/infra-team/issues/251) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🎉 Merged PR [#2338](https://github.com/rust-lang/team/pull/2338) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#1117](https://github.com/rust-lang/compiler-builtins/issues/1117#issuecomment-4096744148) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
-4. ℹ️ Labeled issue [#1773](https://github.com/zizmorcore/zizmor/issues/1773) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
-5. ℹ️ Labeled issue [#1773](https://github.com/zizmorcore/zizmor/issues/1773) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+1. ℹ️ Assigned issue [#210](https://github.com/rust-lang/crates-io-auth-action/issues/210) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+2. 🗣 Commented on [#2759](https://github.com/release-plz/release-plz/issues/2759#issuecomment-4109285380) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+3. ❗ Opened issue [#251](https://github.com/rust-lang/infra-team/issues/251) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 🎉 Merged PR [#2338](https://github.com/rust-lang/team/pull/2338) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🗣 Commented on [#1117](https://github.com/rust-lang/compiler-builtins/issues/1117#issuecomment-4096744148) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
 <!--END_SECTION:activity-->
   
 </details>
