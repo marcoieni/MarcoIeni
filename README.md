@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2327](https://github.com/rust-lang/team/pull/2327#issuecomment-4115803500) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 💪 Opened PR [#2343](https://github.com/rust-lang/team/pull/2343) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#2327](https://github.com/rust-lang/team/pull/2327#issuecomment-4114266672) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🗣 Commented on [#2327](https://github.com/rust-lang/team/pull/2327#issuecomment-4114164694) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#1773](https://github.com/zizmorcore/zizmor/issues/1773#issuecomment-4113865020) in [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+1. 🎉 Merged PR [#3268](https://github.com/rust-lang/docs.rs/pull/3268) in [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs)
+2. 🗣 Commented on [#2327](https://github.com/rust-lang/team/pull/2327#issuecomment-4115803500) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 💪 Opened PR [#2343](https://github.com/rust-lang/team/pull/2343) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🗣 Commented on [#2327](https://github.com/rust-lang/team/pull/2327#issuecomment-4114266672) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🗣 Commented on [#2327](https://github.com/rust-lang/team/pull/2327#issuecomment-4114164694) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
