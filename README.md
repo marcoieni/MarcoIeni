@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1735](https://github.com/rust-lang/team/issues/1735) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#1735](https://github.com/rust-lang/team/issues/1735#issuecomment-4121756256) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#3](https://github.com/marcoieni/multicheese/pull/3) in [marcoieni/multicheese](https://github.com/marcoieni/multicheese)
-4. 💪 Opened PR [#3](https://github.com/marcoieni/multicheese/pull/3) in [marcoieni/multicheese](https://github.com/marcoieni/multicheese)
-5. 🔒 Closed issue [#1](https://github.com/marco-test-org/ruleset-test/issues/1) in [marco-test-org/ruleset-test](https://github.com/marco-test-org/ruleset-test)
+1. 💪 Opened PR [#2345](https://github.com/rust-lang/team/pull/2345) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🎉 Merged PR [#2344](https://github.com/rust-lang/team/pull/2344) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🗣 Commented on [#1029](https://github.com/rust-lang/simpleinfra/pull/1029#issuecomment-4125952461) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+4. 🗣 Commented on [#1029](https://github.com/rust-lang/simpleinfra/pull/1029#issuecomment-4125946613) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+5. 🗣 Commented on [#2344](https://github.com/rust-lang/team/pull/2344#issuecomment-4125058737) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
