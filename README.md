@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2357](https://github.com/rust-lang/triagebot/pull/2357) in [rust-lang/triagebot](https://github.com/rust-lang/triagebot)
-2. 🗣 Commented on [#2355](https://github.com/rust-lang/team/pull/2355#issuecomment-4154034424) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#2353](https://github.com/rust-lang/team/pull/2353) in [rust-lang/team](https://github.com/rust-lang/team)
-4. ℹ️ Assigned issue [#2356](https://github.com/rust-lang/team/issues/2356) in [rust-lang/team](https://github.com/rust-lang/team)
-5. ❗ Opened issue [#2356](https://github.com/rust-lang/team/issues/2356) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#2357](https://github.com/rust-lang/triagebot/pull/2357) in [rust-lang/triagebot](https://github.com/rust-lang/triagebot)
+2. 💪 Opened PR [#2357](https://github.com/rust-lang/triagebot/pull/2357) in [rust-lang/triagebot](https://github.com/rust-lang/triagebot)
+3. 🗣 Commented on [#2355](https://github.com/rust-lang/team/pull/2355#issuecomment-4154034424) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 🎉 Merged PR [#2353](https://github.com/rust-lang/team/pull/2353) in [rust-lang/team](https://github.com/rust-lang/team)
+5. ℹ️ Assigned issue [#2356](https://github.com/rust-lang/team/issues/2356) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
