@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2357](https://github.com/rust-lang/triagebot/pull/2357) in [rust-lang/triagebot](https://github.com/rust-lang/triagebot)
-2. 💪 Opened PR [#2357](https://github.com/rust-lang/triagebot/pull/2357) in [rust-lang/triagebot](https://github.com/rust-lang/triagebot)
-3. 🗣 Commented on [#2355](https://github.com/rust-lang/team/pull/2355#issuecomment-4154034424) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🎉 Merged PR [#2353](https://github.com/rust-lang/team/pull/2353) in [rust-lang/team](https://github.com/rust-lang/team)
-5. ℹ️ Assigned issue [#2356](https://github.com/rust-lang/team/issues/2356) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 💪 Opened PR [#220](https://github.com/rust-lang/crates-io-auth-action/pull/220) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+2. 🎉 Merged PR [#219](https://github.com/rust-lang/crates-io-auth-action/pull/219) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+3. 💪 Opened PR [#1150](https://github.com/rust-lang/compiler-builtins/pull/1150) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
+4. 💪 Opened PR [#219](https://github.com/rust-lang/crates-io-auth-action/pull/219) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. 💪 Opened PR [#724](https://github.com/rust-lang/bors/pull/724) in [rust-lang/bors](https://github.com/rust-lang/bors)
 <!--END_SECTION:activity-->
   
 </details>
