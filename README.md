@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1735](https://github.com/rust-lang/team/issues/1735) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🎉 Merged PR [#2355](https://github.com/rust-lang/team/pull/2355) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🎉 Merged PR [#2359](https://github.com/rust-lang/team/pull/2359) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 🎉 Merged PR [#1150](https://github.com/rust-lang/compiler-builtins/pull/1150) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
-5. 🎉 Merged PR [#220](https://github.com/rust-lang/crates-io-auth-action/pull/220) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+1. 💪 Opened PR [#2362](https://github.com/rust-lang/team/pull/2362) in [rust-lang/team](https://github.com/rust-lang/team)
+2. 🗣 Commented on [#2360](https://github.com/rust-lang/team/pull/2360#issuecomment-4161794988) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🗣 Commented on [#2360](https://github.com/rust-lang/team/pull/2360#issuecomment-4161670793) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 💪 Opened PR [#2360](https://github.com/rust-lang/team/pull/2360) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 🔒 Closed issue [#1735](https://github.com/rust-lang/team/issues/1735) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
