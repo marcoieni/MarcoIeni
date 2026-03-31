@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#220](https://github.com/rust-lang/crates-io-auth-action/pull/220) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-2. 🎉 Merged PR [#219](https://github.com/rust-lang/crates-io-auth-action/pull/219) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-3. 💪 Opened PR [#1150](https://github.com/rust-lang/compiler-builtins/pull/1150) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
-4. 💪 Opened PR [#219](https://github.com/rust-lang/crates-io-auth-action/pull/219) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
-5. 💪 Opened PR [#724](https://github.com/rust-lang/bors/pull/724) in [rust-lang/bors](https://github.com/rust-lang/bors)
+1. 🎉 Merged PR [#1150](https://github.com/rust-lang/compiler-builtins/pull/1150) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
+2. 🎉 Merged PR [#220](https://github.com/rust-lang/crates-io-auth-action/pull/220) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+3. 💪 Opened PR [#220](https://github.com/rust-lang/crates-io-auth-action/pull/220) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+4. 🎉 Merged PR [#219](https://github.com/rust-lang/crates-io-auth-action/pull/219) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+5. 💪 Opened PR [#1150](https://github.com/rust-lang/compiler-builtins/pull/1150) in [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins)
 <!--END_SECTION:activity-->
   
 </details>
