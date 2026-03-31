@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2362](https://github.com/rust-lang/team/pull/2362) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#2360](https://github.com/rust-lang/team/pull/2360#issuecomment-4161794988) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#2360](https://github.com/rust-lang/team/pull/2360#issuecomment-4161670793) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#2360](https://github.com/rust-lang/team/pull/2360) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🔒 Closed issue [#1735](https://github.com/rust-lang/team/issues/1735) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#406](https://github.com/rust-lang/surveys/pull/406#issuecomment-4163756684) in [rust-lang/surveys](https://github.com/rust-lang/surveys)
+2. 🗣 Commented on [#406](https://github.com/rust-lang/surveys/pull/406#issuecomment-4163725350) in [rust-lang/surveys](https://github.com/rust-lang/surveys)
+3. 💪 Opened PR [#406](https://github.com/rust-lang/surveys/pull/406) in [rust-lang/surveys](https://github.com/rust-lang/surveys)
+4. 🎉 Merged PR [#405](https://github.com/rust-lang/surveys/pull/405) in [rust-lang/surveys](https://github.com/rust-lang/surveys)
+5. 💪 Opened PR [#405](https://github.com/rust-lang/surveys/pull/405) in [rust-lang/surveys](https://github.com/rust-lang/surveys)
 <!--END_SECTION:activity-->
   
 </details>
