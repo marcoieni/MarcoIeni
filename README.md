@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13381](https://github.com/rust-lang/crates.io/pull/13381#issuecomment-4223057385) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
-2. 🎉 Merged PR [#2397](https://github.com/rust-lang/team/pull/2397) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 💪 Opened PR [#2397](https://github.com/rust-lang/team/pull/2397) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#1837](https://github.com/rust-lang/blog.rust-lang.org/pull/1837) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-5. 🗣 Commented on [#2395](https://github.com/rust-lang/team/pull/2395#issuecomment-4204825379) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🗣 Commented on [#13193](https://github.com/rust-lang/crates.io/issues/13193#issuecomment-4223835252) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+2. 🗣 Commented on [#13193](https://github.com/rust-lang/crates.io/issues/13193#issuecomment-4223821665) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+3. 🗣 Commented on [#13193](https://github.com/rust-lang/crates.io/issues/13193#issuecomment-4223804194) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+4. 🗣 Commented on [#13193](https://github.com/rust-lang/crates.io/issues/13193#issuecomment-4223767365) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+5. 🗣 Commented on [#13193](https://github.com/rust-lang/crates.io/issues/13193#issuecomment-4223761574) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
 <!--END_SECTION:activity-->
   
 </details>
