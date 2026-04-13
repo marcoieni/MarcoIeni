@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2407](https://github.com/rust-lang/team/pull/2407) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🎉 Merged PR [#2406](https://github.com/rust-lang/team/pull/2406) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 💪 Opened PR [#2407](https://github.com/rust-lang/team/pull/2407) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#2406](https://github.com/rust-lang/team/pull/2406) in [rust-lang/team](https://github.com/rust-lang/team)
-5. 🗣 Commented on [#13193](https://github.com/rust-lang/crates.io/issues/13193#issuecomment-4223835252) in [rust-lang/crates.io](https://github.com/rust-lang/crates.io)
+1. 🗣 Commented on [#95](https://github.com/rust-lang/rust-log-analyzer/pull/95#issuecomment-4235157404) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
+2. 🎉 Merged PR [#2407](https://github.com/rust-lang/team/pull/2407) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🎉 Merged PR [#2406](https://github.com/rust-lang/team/pull/2406) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 💪 Opened PR [#2407](https://github.com/rust-lang/team/pull/2407) in [rust-lang/team](https://github.com/rust-lang/team)
+5. 💪 Opened PR [#2406](https://github.com/rust-lang/team/pull/2406) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
