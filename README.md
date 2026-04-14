@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2409](https://github.com/rust-lang/team/pull/2409#issuecomment-4241959547) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🎉 Merged PR [#30](https://github.com/marcoieni/gigi/pull/30) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-3. 🎉 Merged PR [#1837](https://github.com/rust-lang/blog.rust-lang.org/pull/1837) in [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org)
-4. 💪 Opened PR [#30](https://github.com/marcoieni/gigi/pull/30) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
-5. 🎉 Merged PR [#29](https://github.com/marcoieni/gigi/pull/29) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
+1. 🎉 Merged PR [#1035](https://github.com/rust-lang/rust-forge/pull/1035) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+2. 💪 Opened PR [#1036](https://github.com/rust-lang/rust-forge/pull/1036) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+3. 💪 Opened PR [#1035](https://github.com/rust-lang/rust-forge/pull/1035) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+4. 💪 Opened PR [#1034](https://github.com/rust-lang/rust-forge/pull/1034) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+5. 🎉 Merged PR [#31](https://github.com/marcoieni/gigi/pull/31) in [marcoieni/gigi](https://github.com/marcoieni/gigi)
 <!--END_SECTION:activity-->
   
 </details>
