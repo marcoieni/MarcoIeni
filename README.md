@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#2](https://github.com/rust-lang/renovate/issues/2) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-2. ❗ Opened issue [#2](https://github.com/rust-lang/renovate/issues/2) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-3. ℹ️ Unassigned PR [#1](https://github.com/rust-lang/renovate/pull/1) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-4. 💪 Opened PR [#1](https://github.com/rust-lang/renovate/pull/1) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-5. ℹ️ Assigned PR [#1](https://github.com/rust-lang/renovate/pull/1) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+1. 🗣 Commented on [#2412](https://github.com/rust-lang/team/pull/2412#issuecomment-4247621984) in [rust-lang/team](https://github.com/rust-lang/team)
+2. ℹ️ Assigned issue [#2](https://github.com/rust-lang/renovate/issues/2) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+3. ❗ Opened issue [#2](https://github.com/rust-lang/renovate/issues/2) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+4. ℹ️ Unassigned PR [#1](https://github.com/rust-lang/renovate/pull/1) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+5. 💪 Opened PR [#1](https://github.com/rust-lang/renovate/pull/1) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
 <!--END_SECTION:activity-->
   
 </details>
