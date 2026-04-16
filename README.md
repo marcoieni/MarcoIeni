@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2420](https://github.com/rust-lang/team/pull/2420#issuecomment-4255837905) in [rust-lang/team](https://github.com/rust-lang/team)
-2. 🗣 Commented on [#2420](https://github.com/rust-lang/team/pull/2420#issuecomment-4255570115) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 💪 Opened PR [#741](https://github.com/rust-lang/bors/pull/741) in [rust-lang/bors](https://github.com/rust-lang/bors)
-4. 🗣 Commented on [#2419](https://github.com/rust-lang/team/pull/2419#issuecomment-4254442956) in [rust-lang/team](https://github.com/rust-lang/team)
-5. ❗ Opened issue [#1037](https://github.com/rust-lang/simpleinfra/issues/1037) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+1. 💪 Opened PR [#4](https://github.com/rust-lang/renovate/pull/4) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+2. 🗣 Commented on [#2420](https://github.com/rust-lang/team/pull/2420#issuecomment-4255837905) in [rust-lang/team](https://github.com/rust-lang/team)
+3. 🗣 Commented on [#2420](https://github.com/rust-lang/team/pull/2420#issuecomment-4255570115) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 💪 Opened PR [#741](https://github.com/rust-lang/bors/pull/741) in [rust-lang/bors](https://github.com/rust-lang/bors)
+5. 🗣 Commented on [#2419](https://github.com/rust-lang/team/pull/2419#issuecomment-4254442956) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
