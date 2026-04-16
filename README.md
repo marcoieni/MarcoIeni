@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42680](https://github.com/renovatebot/renovate/pull/42680) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-2. 🎉 Merged PR [#255](https://github.com/rust-lang/infra-team/pull/255) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. 💪 Opened PR [#255](https://github.com/rust-lang/infra-team/pull/255) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. 💪 Opened PR [#1038](https://github.com/rust-lang/rust-forge/pull/1038) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
-5. 🗣 Commented on [#2378](https://github.com/rust-lang/triagebot/pull/2378#issuecomment-4258905380) in [rust-lang/triagebot](https://github.com/rust-lang/triagebot)
+1. 🔒 Closed issue [#96](https://github.com/rust-lang/infra-team/issues/96) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 🗣 Commented on [#96](https://github.com/rust-lang/infra-team/issues/96#issuecomment-4261568414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. ℹ️ Labeled issue [#29](https://github.com/rust-lang/all-hands-2026/issues/29) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+4. ❗ Opened issue [#29](https://github.com/rust-lang/all-hands-2026/issues/29) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+5. 🗣 Commented on [#3409](https://github.com/rust-lang/rustup/issues/3409#issuecomment-4261439463) in [rust-lang/rustup](https://github.com/rust-lang/rustup)
 <!--END_SECTION:activity-->
   
 </details>
