@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/rust-lang/renovate/pull/4) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-2. 🗣 Commented on [#2420](https://github.com/rust-lang/team/pull/2420#issuecomment-4255837905) in [rust-lang/team](https://github.com/rust-lang/team)
-3. 🗣 Commented on [#2420](https://github.com/rust-lang/team/pull/2420#issuecomment-4255570115) in [rust-lang/team](https://github.com/rust-lang/team)
-4. 💪 Opened PR [#741](https://github.com/rust-lang/bors/pull/741) in [rust-lang/bors](https://github.com/rust-lang/bors)
-5. 🗣 Commented on [#2419](https://github.com/rust-lang/team/pull/2419#issuecomment-4254442956) in [rust-lang/team](https://github.com/rust-lang/team)
+1. 🎉 Merged PR [#42680](https://github.com/renovatebot/renovate/pull/42680) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+2. 🎉 Merged PR [#255](https://github.com/rust-lang/infra-team/pull/255) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. 💪 Opened PR [#255](https://github.com/rust-lang/infra-team/pull/255) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 💪 Opened PR [#1038](https://github.com/rust-lang/rust-forge/pull/1038) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+5. 🗣 Commented on [#2378](https://github.com/rust-lang/triagebot/pull/2378#issuecomment-4258905380) in [rust-lang/triagebot](https://github.com/rust-lang/triagebot)
 <!--END_SECTION:activity-->
   
 </details>
