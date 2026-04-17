@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155089](https://github.com/rust-lang/rust/pull/155089#issuecomment-4262931121) in [rust-lang/rust](https://github.com/rust-lang/rust)
-2. 🗣 Commented on [#155089](https://github.com/rust-lang/rust/pull/155089#issuecomment-4262924160) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🔒 Closed issue [#96](https://github.com/rust-lang/infra-team/issues/96) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. 🗣 Commented on [#96](https://github.com/rust-lang/infra-team/issues/96#issuecomment-4261568414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. ℹ️ Labeled issue [#29](https://github.com/rust-lang/all-hands-2026/issues/29) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+1. 🗣 Commented on [#256](https://github.com/rust-lang/infra-team/issues/256#issuecomment-4267176042) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+2. 🗣 Commented on [#155089](https://github.com/rust-lang/rust/pull/155089#issuecomment-4262931121) in [rust-lang/rust](https://github.com/rust-lang/rust)
+3. 🗣 Commented on [#155089](https://github.com/rust-lang/rust/pull/155089#issuecomment-4262924160) in [rust-lang/rust](https://github.com/rust-lang/rust)
+4. 🔒 Closed issue [#96](https://github.com/rust-lang/infra-team/issues/96) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 🗣 Commented on [#96](https://github.com/rust-lang/infra-team/issues/96#issuecomment-4261568414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
