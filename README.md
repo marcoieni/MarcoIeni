@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/rust-lang/infra-team/issues/256#issuecomment-4267176042) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. 🗣 Commented on [#155089](https://github.com/rust-lang/rust/pull/155089#issuecomment-4262931121) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. 🗣 Commented on [#155089](https://github.com/rust-lang/rust/pull/155089#issuecomment-4262924160) in [rust-lang/rust](https://github.com/rust-lang/rust)
-4. 🔒 Closed issue [#96](https://github.com/rust-lang/infra-team/issues/96) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-5. 🗣 Commented on [#96](https://github.com/rust-lang/infra-team/issues/96#issuecomment-4261568414) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+1. 💪 Opened PR [#239](https://github.com/rust-lang/crates-io-auth-action/pull/239) in [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
+2. 🗣 Commented on [#26](https://github.com/rust-lang/crates.io-index/pull/26#issuecomment-4279015792) in [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index)
+3. 💪 Opened PR [#2426](https://github.com/rust-lang/team/pull/2426) in [rust-lang/team](https://github.com/rust-lang/team)
+4. ❗ Opened issue [#258](https://github.com/rust-lang/infra-team/issues/258) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+5. 🗣 Commented on [#2401](https://github.com/rust-lang/team/pull/2401#issuecomment-4278743476) in [rust-lang/team](https://github.com/rust-lang/team)
 <!--END_SECTION:activity-->
   
 </details>
