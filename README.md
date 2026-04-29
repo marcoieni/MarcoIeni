@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1047](https://github.com/rust-lang/rust-forge/pull/1047) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
-2. 🗣 Commented on [#155958](https://github.com/rust-lang/rust/pull/155958#issuecomment-4343025976) in [rust-lang/rust](https://github.com/rust-lang/rust)
-3. ❗ Opened issue [#833](https://github.com/rust-lang/crater/issues/833) in [rust-lang/crater](https://github.com/rust-lang/crater)
-4. ❗ Opened issue [#832](https://github.com/rust-lang/crater/issues/832) in [rust-lang/crater](https://github.com/rust-lang/crater)
-5. 💪 Opened PR [#155958](https://github.com/rust-lang/rust/pull/155958) in [rust-lang/rust](https://github.com/rust-lang/rust)
+1. 🗣 Commented on [#2432](https://github.com/rust-lang/rustc-perf/pull/2432#issuecomment-4345489779) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+2. 💪 Opened PR [#2437](https://github.com/rust-lang/rustc-perf/pull/2437) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+3. 💪 Opened PR [#2450](https://github.com/rust-lang/team/pull/2450) in [rust-lang/team](https://github.com/rust-lang/team)
+4. 💪 Opened PR [#1047](https://github.com/rust-lang/rust-forge/pull/1047) in [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge)
+5. 🗣 Commented on [#155958](https://github.com/rust-lang/rust/pull/155958#issuecomment-4343025976) in [rust-lang/rust](https://github.com/rust-lang/rust)
 <!--END_SECTION:activity-->
   
 </details>
