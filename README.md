@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-2. ❗ Opened issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-3. ℹ️ Labeled issue [#50](https://github.com/rust-lang/all-hands-2026/issues/50) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-4. ❗ Opened issue [#50](https://github.com/rust-lang/all-hands-2026/issues/50) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-5. ❗ Opened issue [#266](https://github.com/rust-lang/infra-team/issues/266) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+1. 🎉 Merged PR [#14](https://github.com/rust-lang/renovate/pull/14) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+2. 💪 Opened PR [#14](https://github.com/rust-lang/renovate/pull/14) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+3. ℹ️ Labeled issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+4. ❗ Opened issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+5. ℹ️ Labeled issue [#50](https://github.com/rust-lang/all-hands-2026/issues/50) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
 <!--END_SECTION:activity-->
   
 </details>
