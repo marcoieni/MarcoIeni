@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#49](https://github.com/rust-lang/all-hands-2026/issues/49) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-2. ❗ Opened issue [#49](https://github.com/rust-lang/all-hands-2026/issues/49) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-3. 🎉 Merged PR [#2450](https://github.com/rust-lang/rustc-perf/pull/2450) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
-4. 🗣 Commented on [#156061](https://github.com/rust-lang/rust/pull/156061#issuecomment-4372845236) in [rust-lang/rust](https://github.com/rust-lang/rust)
-5. 💪 Opened PR [#2450](https://github.com/rust-lang/rustc-perf/pull/2450) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+1. ℹ️ Labeled issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+2. ❗ Opened issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+3. ℹ️ Labeled issue [#50](https://github.com/rust-lang/all-hands-2026/issues/50) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+4. ❗ Opened issue [#50](https://github.com/rust-lang/all-hands-2026/issues/50) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+5. ❗ Opened issue [#266](https://github.com/rust-lang/infra-team/issues/266) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
 <!--END_SECTION:activity-->
   
 </details>
