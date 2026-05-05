@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/rust-lang/renovate/pull/14) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-2. 💪 Opened PR [#14](https://github.com/rust-lang/renovate/pull/14) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-3. ℹ️ Labeled issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-4. ❗ Opened issue [#51](https://github.com/rust-lang/all-hands-2026/issues/51) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
-5. ℹ️ Labeled issue [#50](https://github.com/rust-lang/all-hands-2026/issues/50) in [rust-lang/all-hands-2026](https://github.com/rust-lang/all-hands-2026)
+1. 💪 Opened PR [#15](https://github.com/rust-lang/renovate/pull/15) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+2. 🎉 Merged PR [#2457](https://github.com/rust-lang/rustc-perf/pull/2457) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+3. 🗣 Commented on [#266](https://github.com/rust-lang/infra-team/issues/266#issuecomment-4377968607) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+4. 🗣 Commented on [#2450](https://github.com/rust-lang/rustc-perf/pull/2450#issuecomment-4377802898) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+5. 💪 Opened PR [#2457](https://github.com/rust-lang/rustc-perf/pull/2457) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
 <!--END_SECTION:activity-->
   
 </details>
