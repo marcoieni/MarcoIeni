@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/rust-lang/renovate/pull/15) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-2. 🎉 Merged PR [#2457](https://github.com/rust-lang/rustc-perf/pull/2457) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
-3. 🗣 Commented on [#266](https://github.com/rust-lang/infra-team/issues/266#issuecomment-4377968607) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-4. 🗣 Commented on [#2450](https://github.com/rust-lang/rustc-perf/pull/2450#issuecomment-4377802898) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
-5. 💪 Opened PR [#2457](https://github.com/rust-lang/rustc-perf/pull/2457) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+1. 🎉 Merged PR [#1049](https://github.com/rust-lang/simpleinfra/pull/1049) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+2. 💪 Opened PR [#1049](https://github.com/rust-lang/simpleinfra/pull/1049) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
+3. 🎉 Merged PR [#17](https://github.com/rust-lang/renovate/pull/17) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+4. 🗣 Commented on [#13](https://github.com/rust-lang/renovate/issues/13#issuecomment-4380227320) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+5. 🔒 Closed issue [#13](https://github.com/rust-lang/renovate/issues/13) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
 <!--END_SECTION:activity-->
   
 </details>
