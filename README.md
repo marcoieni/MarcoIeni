@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1049](https://github.com/rust-lang/simpleinfra/pull/1049) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-2. 💪 Opened PR [#1049](https://github.com/rust-lang/simpleinfra/pull/1049) in [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra)
-3. 🎉 Merged PR [#17](https://github.com/rust-lang/renovate/pull/17) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-4. 🗣 Commented on [#13](https://github.com/rust-lang/renovate/issues/13#issuecomment-4380227320) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-5. 🔒 Closed issue [#13](https://github.com/rust-lang/renovate/issues/13) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+1. ❗ Opened issue [#97](https://github.com/rust-lang/rust-log-analyzer/issues/97) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
+2. ❗ Opened issue [#96](https://github.com/rust-lang/rust-log-analyzer/issues/96) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
+3. 🔒 Closed issue [#19](https://github.com/rust-lang/rust-log-analyzer/issues/19) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
+4. 🗣 Commented on [#19](https://github.com/rust-lang/rust-log-analyzer/issues/19#issuecomment-4382993572) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
+5. ❗ Opened issue [#349](https://github.com/rust-lang/rfcbot-rs/issues/349) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
 <!--END_SECTION:activity-->
   
 </details>
