@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#97](https://github.com/rust-lang/rust-log-analyzer/issues/97) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
-2. ❗ Opened issue [#96](https://github.com/rust-lang/rust-log-analyzer/issues/96) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
-3. 🔒 Closed issue [#19](https://github.com/rust-lang/rust-log-analyzer/issues/19) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
-4. 🗣 Commented on [#19](https://github.com/rust-lang/rust-log-analyzer/issues/19#issuecomment-4382993572) in [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer)
-5. ❗ Opened issue [#349](https://github.com/rust-lang/rfcbot-rs/issues/349) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
+1. 🎉 Merged PR [#2465](https://github.com/rust-lang/rustc-perf/pull/2465) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+2. 🎉 Merged PR [#19](https://github.com/rust-lang/renovate/pull/19) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+3. 💪 Opened PR [#19](https://github.com/rust-lang/renovate/pull/19) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+4. 🎉 Merged PR [#18](https://github.com/rust-lang/renovate/pull/18) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+5. 💪 Opened PR [#18](https://github.com/rust-lang/renovate/pull/18) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
 <!--END_SECTION:activity-->
   
 </details>
