@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="ieni.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MarcoIeni | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MarcoIeni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MarcoIeni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MarcoIeni | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/dev-dot-to.svg" />][devto]
-[<img align="left" alt="MarcoIeni | RSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][rss]
-
-<br />
+[![Website](https://img.shields.io/badge/Website-ieni.dev-1f6feb?style=for-the-badge&logo=firefoxbrowser&logoColor=white)][website]
+[![YouTube](https://img.shields.io/badge/YouTube-MarcoIeni-ff0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Twitter](https://img.shields.io/badge/Twitter-MarcoIeni-4b5563?style=for-the-badge&logo=x&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MarcoIeni-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Dev.to](https://img.shields.io/badge/Dev.to-marcoieni-4b5563?style=for-the-badge&logo=devdotto&logoColor=white)][devto]
+[![RSS](https://img.shields.io/badge/RSS-ieni.dev-f97316?style=for-the-badge&logo=rss&logoColor=white)][rss]
 
 
 ---
