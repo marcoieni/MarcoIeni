@@ -20,12 +20,30 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="ieni.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MarcoIeni | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MarcoIeni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MarcoIeni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MarcoIeni | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/dev-dot-to.svg" />][devto]
-[<img align="left" alt="MarcoIeni | RSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][rss]
+<a href="https://ieni.dev">
+  <img align="left" alt="ieni.dev" width="22px" src="https://api.iconify.design/lucide:globe.svg?color=%23000000#gh-light-mode-only" />
+  <img align="left" alt="ieni.dev" width="22px" src="https://api.iconify.design/lucide:globe.svg?color=%23ffffff#gh-dark-mode-only" />
+</a>
+<a href="https://youtube.com/MarcoIeni">
+  <img align="left" alt="MarcoIeni | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/000000#gh-light-mode-only" />
+  <img align="left" alt="MarcoIeni | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/ffffff#gh-dark-mode-only" />
+</a>
+<a href="https://twitter.com/MarcoIeni">
+  <img align="left" alt="MarcoIeni | Twitter" width="22px" src="https://cdn.simpleicons.org/x/000000#gh-light-mode-only" />
+  <img align="left" alt="MarcoIeni | Twitter" width="22px" src="https://cdn.simpleicons.org/x/ffffff#gh-dark-mode-only" />
+</a>
+<a href="https://linkedin.com/in/MarcoIeni">
+  <img align="left" alt="MarcoIeni | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/000000#gh-light-mode-only" />
+  <img align="left" alt="MarcoIeni | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/ffffff#gh-dark-mode-only" />
+</a>
+<a href="https://dev.to/marcoieni">
+  <img align="left" alt="MarcoIeni | Dev.to" width="22px" src="https://cdn.simpleicons.org/devdotto/000000#gh-light-mode-only" />
+  <img align="left" alt="MarcoIeni | Dev.to" width="22px" src="https://cdn.simpleicons.org/devdotto/ffffff#gh-dark-mode-only" />
+</a>
+<a href="https://www.ieni.dev/posts/index.xml">
+  <img align="left" alt="MarcoIeni | RSS" width="22px" src="https://cdn.simpleicons.org/rss/000000#gh-light-mode-only" />
+  <img align="left" alt="MarcoIeni | RSS" width="22px" src="https://cdn.simpleicons.org/rss/ffffff#gh-dark-mode-only" />
+</a>
 
 <br />
 
