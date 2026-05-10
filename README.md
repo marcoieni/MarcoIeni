@@ -129,27 +129,6 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2829](https://github.com/release-plz/release-plz/pull/2829) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
-2. 🗣 Commented on [#11](https://github.com/rust-lang/infra-team/issues/11#issuecomment-4395514244) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-3. ❗ Opened issue [#350](https://github.com/rust-lang/rfcbot-rs/issues/350) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
-4. 🎉 Merged PR [#2465](https://github.com/rust-lang/rustc-perf/pull/2465) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
-5. 🎉 Merged PR [#19](https://github.com/rust-lang/renovate/pull/19) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-<!--END_SECTION:activity-->
-  
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoieni&show_icons=true" alt="marcoieni" /></p>
-
-
-</details>
-
 [website]: https://ieni.dev
 [twitter]: https://twitter.com/MarcoIeni
 [linkedin]: https://linkedin.com/in/MarcoIeni
