@@ -133,11 +133,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/rust-lang/infra-team/issues/11#issuecomment-4395514244) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
-2. ❗ Opened issue [#350](https://github.com/rust-lang/rfcbot-rs/issues/350) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
-3. 🎉 Merged PR [#2465](https://github.com/rust-lang/rustc-perf/pull/2465) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
-4. 🎉 Merged PR [#19](https://github.com/rust-lang/renovate/pull/19) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
-5. 💪 Opened PR [#19](https://github.com/rust-lang/renovate/pull/19) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
+1. 💪 Opened PR [#2829](https://github.com/release-plz/release-plz/pull/2829) in [release-plz/release-plz](https://github.com/release-plz/release-plz)
+2. 🗣 Commented on [#11](https://github.com/rust-lang/infra-team/issues/11#issuecomment-4395514244) in [rust-lang/infra-team](https://github.com/rust-lang/infra-team)
+3. ❗ Opened issue [#350](https://github.com/rust-lang/rfcbot-rs/issues/350) in [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs)
+4. 🎉 Merged PR [#2465](https://github.com/rust-lang/rustc-perf/pull/2465) in [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf)
+5. 🎉 Merged PR [#19](https://github.com/rust-lang/renovate/pull/19) in [rust-lang/renovate](https://github.com/rust-lang/renovate)
 <!--END_SECTION:activity-->
   
 </details>
