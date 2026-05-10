@@ -29,34 +29,6 @@ Here are some ideas to get you started:
 
 <br />
 
-### Favourite Languages and Tools:
-
-[<img align="left" alt="Rust" width="26px" src="icons/rust.svg" />](https://github.com/MarcoIeni/poke-speare)
-
-[<img align="left" alt="cplusplus" width="26px" src="icons/cpp.svg" />](https://github.com/MarcoIeni/accelerometer_game)
-
-<img align="left" alt="C" width="26px" src="icons/c.svg" />
-
-[<img align="left" alt="Java" width="26px" src="icons/java.svg" />](https://bitbucket.org/GabrieleIannone/ps04/src/master/)
-
-[<img align="left" alt="Python" width="26px" src="icons/python.svg" />](https://github.com/MarcoIeni/walking-bus)
-
-<img align="left" alt="bash" width="26px" src="icons/bash.svg" />
-
-[<img align="left" alt="kotlin" width="26px" src="icons/kotlin.svg" />](https://github.com/MarcoIeni/github-stats)
-
-<img align="left" alt="Linux" width="26px" src="icons/linux.svg" />
-<img align="left" alt="Git" width="26px" src="icons/git.svg" />
-
-[<img align="left" alt="Docker" width="26px" src="icons/docker.svg" />](https://github.com/doc-org/docker)
-
-[<img align="left" alt="GitHub" width="26px" src="icons/github.svg" />](https://github.com/VUnit/vunit_action)
-
-<img align="left" alt="Jenkins" width="26px" src="icons/jenkins.svg" />
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/VSpaceCode/VSpaceCode)
-
-<br />
 
 ---
 
